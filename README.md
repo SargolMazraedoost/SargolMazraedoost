@@ -2,6 +2,9 @@
 # Sargol Mazraedoost
 
 **Postdoctoral Research Fellow** (Sep 2025 – Present) 
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Girl coding"/>
+</p>
 
 **Ph.D. in Chemical Convergence Engineering** (Aug 2021 – Aug 2025)  
 Intelligent Systems Laboratory, Pukyong National University (PKNU), Busan, South Korea.  
