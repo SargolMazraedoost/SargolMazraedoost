@@ -51,7 +51,7 @@ Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatograp
 
 
 ### RT-TR
-<img src="https://cdn-icons-png.flaticon.com/512/2813/2813573.png" width="60" alt="molecule"/>
+<img src="https://cdn-icons-png.flaticon.com/512/4248/4248440.png" width="60" alt="molecule"/>
 
 **SMILES → Retention-Time Prediction**  
 Hybrid Transformer-BiLSTM trained on METLIN SMRT.  
