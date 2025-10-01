@@ -3,7 +3,7 @@
 
 **Postdoctoral Research Fellow** (Sep 2025 – Present) 
 <p align="center">
-  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="500" alt="Female programmer coding"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Anime girl coding"/>
 </p>
 
 
