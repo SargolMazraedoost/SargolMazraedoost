@@ -3,8 +3,9 @@
 
 **Postdoctoral Research Fellow** (Sep 2025 – Present) 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding Girl"/>
+  <img src="https://raw.githubusercontent.com/SargolMazraedoost/SargolMazraedoost/main/assets/coding-girl.svg" width="400" alt="Girl coding"/>
 </p>
+
 
 
 
