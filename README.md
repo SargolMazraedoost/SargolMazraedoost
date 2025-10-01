@@ -1,5 +1,5 @@
 
-# Sargol Mazraedoost
+
 <p align="center">
   <img src="assets/sargol_name.gif" alt="Sargol Mazraedoost – animated name" width="720">
 </p>
