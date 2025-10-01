@@ -1,6 +1,10 @@
 
 # Sargol Mazraedoost
 
+<p align="center">
+  <img src="assets/sargol_name.gif" alt="Sargol Mazraedoost – animated name" width="720">
+</p>
+
 **Postdoctoral Research Fellow** (Sep 2025 – Present) 
 
 **Ph.D. in Chemical Convergence Engineering** (Aug 2021 – Aug 2025)  
