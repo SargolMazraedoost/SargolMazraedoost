@@ -2,6 +2,9 @@
 # Sargol Mazraedoost
 
 **Postdoctoral Research Fellow** (Sep 2025 – Present) 
+<p align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="400" alt="Girl working on PC"/>
+</p>
 
 
 **Ph.D. in Chemical Convergence Engineering** (Aug 2021 – Aug 2025)  
@@ -49,10 +52,6 @@ Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatograp
 - **Mazraedoost S.**, Malekroodi HS, Yi M, Liu JJ, In Lim S. *Integrative computational pipeline for identifying binding-enhancing mutations targeting the MBD2–p66α interaction*. **Bulletin of the Korean Chemical Society**. 2025. [DOI](https://onlinelibrary.wiley.com/doi/full/10.1002/bkcs.12923)  
 - **Mazraedoost S.**, Sedigh Malekroodi H., Žuvela P., Yi M, Liu JJ. *Prediction of chromatographic retention time using a hybrid Transformer-LSTM model*. **Journal of Chemical Information and Modeling**. 2025. [DOI](https://doi.org/10.1021/acs.jcim.5c00167) *(Front cover article)*
 (https://github.com/SargolMazraedoost/RT-TR)  
-
-![Stars](https://img.shields.io/github/stars/SargolMazraedoost/RT-TR?style=social) 
-![Forks](https://img.shields.io/github/forks/SargolMazraedoost/RT-TR?style=social)  
-
 
 📌 Full publication list available on [Google Scholar](https://scholar.google.com/citations?user=tosxQUIAAAAJ&hl=en).  
 
