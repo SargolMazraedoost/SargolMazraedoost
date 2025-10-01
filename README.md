@@ -2,6 +2,9 @@
 # Sargol Mazraedoost
 
 **Postdoctoral Research Fellow** (Sep 2025 – Present) 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshmangalam/harshmangalam/main/assets/coding-girl.svg" width="400" alt="Female coder"/>
+</p>
 
 
 **Ph.D. in Chemical Convergence Engineering** (Aug 2021 – Aug 2025)  
@@ -102,10 +105,6 @@ Hybrid Transformer-BiLSTM trained on METLIN SMRT.
        src="https://github-readme-activity-graph.vercel.app/graph?username=SargolMazraedoost&bg_color=000000&color=ffffff&line=9370db&point=ff69b4&area=true&hide_border=true" 
        alt="Contribution Graph" />
 
-       ⏰ Current Time
-
-<p align="center">
-  <img src="https://github-readme-clock.vercel.app/api?timezone=Asia/Seoul" width="300" alt="Current Time"/>
-</p>
+    
 
 
