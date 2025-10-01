@@ -49,8 +49,6 @@ Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatograp
 - **Mazraedoost S.**, Malekroodi HS, Yi M, Liu JJ, In Lim S. *Integrative computational pipeline for identifying binding-enhancing mutations targeting the MBD2–p66α interaction*. **Bulletin of the Korean Chemical Society**. 2025. [DOI](https://onlinelibrary.wiley.com/doi/full/10.1002/bkcs.12923)  
 - **Mazraedoost S.**, Sedigh Malekroodi H., Žuvela P., Yi M, Liu JJ. *Prediction of chromatographic retention time using a hybrid Transformer-LSTM model*. **Journal of Chemical Information and Modeling**. 2025. [DOI](https://doi.org/10.1021/acs.jcim.5c00167) *(Front cover article)*
 ### RT-TR
-<img src="https://raw.githubusercontent.com/SargolMazraedoost/SargolMazraedoost/main/assets/molecule.png" width="80" alt="Molecule"/>
-
 **SMILES → Retention-Time Prediction**  
 Hybrid Transformer-BiLSTM trained on METLIN SMRT.  
 
