@@ -3,10 +3,8 @@
 
 **Postdoctoral Research Fellow** (Sep 2025 – Present) 
 <p align="center">
-  <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="400" alt="Girl developer"/>
+  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="500" alt="Female coder at PC"/>
 </p>
-
-
 
 **Ph.D. in Chemical Convergence Engineering** (Aug 2021 – Aug 2025)  
 Intelligent Systems Laboratory, Pukyong National University (PKNU), Busan, South Korea.  
