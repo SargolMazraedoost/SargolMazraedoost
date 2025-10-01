@@ -2,9 +2,6 @@
 # Sargol Mazraedoost
 
 **Postdoctoral Research Fellow** (Sep 2025 – Present) 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Anime girl coding"/>
-</p>
 
 
 **Ph.D. in Chemical Convergence Engineering** (Aug 2021 – Aug 2025)  
