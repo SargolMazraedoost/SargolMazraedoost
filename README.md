@@ -1,10 +1,6 @@
 
 # Sargol Mazraedoost
 
-<p align="center">
-  <img src="assets/sargol_name.gif" alt="Sargol Mazraedoost – animated name" width="720">
-</p>
-
 **Postdoctoral Research Fellow** (Sep 2025 – Present) 
 
 **Ph.D. in Chemical Convergence Engineering** (Aug 2021 – Aug 2025)  
@@ -58,6 +54,17 @@ Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatograp
 
 ## 🏆 Awards
 - **Outstanding International Student Award**, (자랑스러운 국립 부경대학교 외국인 유학생) from Pukyong National University
+
+---
+
+### 🛠️ Tech & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-yellow?style=for-the-badge&logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/PyTorch-DL-red?style=for-the-badge&logo=pytorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/MD_Simulations-green?style=for-the-badge&logo=OpenMM" />
+</p>
 
 ---
 
