@@ -6,8 +6,7 @@
 
 <h1 align="center">🔹 Sargol Mazraedoost 🔹</h1>
 
-
-**Postdoctoral Research Fellow** (Sep 2025 – Present) 
+<h3 align="center"><strong>Postdoctoral Research Fellow</strong> (Sep 2025 – Present)</h3>
 
 ## 🎓 Education
 
