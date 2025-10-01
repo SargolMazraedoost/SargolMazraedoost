@@ -48,8 +48,10 @@ Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatograp
 - **Mazraedoost S.**, Žuvela P, Ulenberg S, Bączek T, Liu JJ. *Cross-column density functional theory–based QSRR model development powered by machine learning*. **Analytical and Bioanalytical Chemistry**. 2024. [DOI](https://link.springer.com/article/10.1007/s00216-024-05243-7)  
 - **Mazraedoost S.**, Malekroodi HS, Yi M, Liu JJ, In Lim S. *Integrative computational pipeline for identifying binding-enhancing mutations targeting the MBD2–p66α interaction*. **Bulletin of the Korean Chemical Society**. 2025. [DOI](https://onlinelibrary.wiley.com/doi/full/10.1002/bkcs.12923)  
 - **Mazraedoost S.**, Sedigh Malekroodi H., Žuvela P., Yi M, Liu JJ. *Prediction of chromatographic retention time using a hybrid Transformer-LSTM model*. **Journal of Chemical Information and Modeling**. 2025. [DOI](https://doi.org/10.1021/acs.jcim.5c00167) *(Front cover article)*
-- ### RT-TR
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/chemex.svg" width="60" alt="molecule logo"/>
+
+
+### RT-TR
+<img src="https://cdn-icons-png.flaticon.com/512/4264/4264853.png" width="60" alt="molecule"/>
 
 **SMILES → Retention-Time Prediction**  
 Hybrid Transformer-BiLSTM trained on METLIN SMRT.  
@@ -59,6 +61,7 @@ Hybrid Transformer-BiLSTM trained on METLIN SMRT.
 
 ![Stars](https://img.shields.io/github/stars/SargolMazraedoost/RT-TR?style=social) 
 ![Forks](https://img.shields.io/github/forks/SargolMazraedoost/RT-TR?style=social)  
+
 
 
 📌 Full publication list available on [Google Scholar](https://scholar.google.com/citations?user=tosxQUIAAAAJ&hl=en).  
