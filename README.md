@@ -47,7 +47,19 @@ Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatograp
 ## 📄 Selected Publications
 - **Mazraedoost S.**, Žuvela P, Ulenberg S, Bączek T, Liu JJ. *Cross-column density functional theory–based QSRR model development powered by machine learning*. **Analytical and Bioanalytical Chemistry**. 2024. [DOI](https://link.springer.com/article/10.1007/s00216-024-05243-7)  
 - **Mazraedoost S.**, Malekroodi HS, Yi M, Liu JJ, In Lim S. *Integrative computational pipeline for identifying binding-enhancing mutations targeting the MBD2–p66α interaction*. **Bulletin of the Korean Chemical Society**. 2025. [DOI](https://onlinelibrary.wiley.com/doi/full/10.1002/bkcs.12923)  
-- **Mazraedoost S.**, Sedigh Malekroodi H., Žuvela P., Yi M, Liu JJ. *Prediction of chromatographic retention time using a hybrid Transformer-LSTM model*. **Journal of Chemical Information and Modeling**. 2025. [DOI](https://doi.org/10.1021/acs.jcim.5c00167) *(Front cover article)*  
+- **Mazraedoost S.**, Sedigh Malekroodi H., Žuvela P., Yi M, Liu JJ. *Prediction of chromatographic retention time using a hybrid Transformer-LSTM model*. **Journal of Chemical Information and Modeling**. 2025. [DOI](https://doi.org/10.1021/acs.jcim.5c00167) *(Front cover article)*
+- ### RT-TR
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/chemex.svg" width="60" alt="molecule logo"/>
+
+**SMILES → Retention-Time Prediction**  
+Hybrid Transformer-BiLSTM trained on METLIN SMRT.  
+
+![Badge](https://img.shields.io/badge/RT--TR-v1.0-blueviolet?style=for-the-badge)  
+[🔗 Demo & Repo](https://github.com/SargolMazraedoost/RT-TR)  
+
+![Stars](https://img.shields.io/github/stars/SargolMazraedoost/RT-TR?style=social) 
+![Forks](https://img.shields.io/github/forks/SargolMazraedoost/RT-TR?style=social)  
+
 
 📌 Full publication list available on [Google Scholar](https://scholar.google.com/citations?user=tosxQUIAAAAJ&hl=en).  
 
@@ -92,22 +104,4 @@ Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatograp
        src="https://github-readme-activity-graph.vercel.app/graph?username=SargolMazraedoost&bg_color=000000&color=ffffff&line=9370db&point=ff69b4&area=true&hide_border=true" 
        alt="Contribution Graph" />
 </p>
-<table>
-<tr>
-<td width="33%" align="center">
-  
-### RT-TR
-![logo](https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/molecule.png)
-
-**SMILES → Retention-Time Prediction**  
-Hybrid Transformer-BiLSTM trained on METLIN SMRT.  
-
-![Badge](https://img.shields.io/badge/RT--TR-v1.0-blueviolet?style=for-the-badge)  
-[🔗 Demo & Repo](https://github.com/SargolMazraedoost/RT-TR)  
-
-![Stars](https://img.shields.io/github/stars/SargolMazraedoost/RT-TR?style=social) 
-![Forks](https://img.shields.io/github/forks/SargolMazraedoost/RT-TR?style=social)  
-
-</td>
-<td width="33%" align="center">
 
