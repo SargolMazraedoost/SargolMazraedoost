@@ -51,7 +51,7 @@ Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatograp
 
 
 ### RT-TR
-<img src="assets/molecule.png" width="80" alt="Molecule logo"/>
+<img src="https://raw.githubusercontent.com/SargolMazraedoost/SargolMazraedoost/main/assets/molecule.png" width="80" alt="Molecule logo"/>
 
 **SMILES → Retention-Time Prediction**  
 Hybrid Transformer-BiLSTM trained on METLIN SMRT.  
@@ -61,7 +61,6 @@ Hybrid Transformer-BiLSTM trained on METLIN SMRT.
 
 ![Stars](https://img.shields.io/github/stars/SargolMazraedoost/RT-TR?style=social) 
 ![Forks](https://img.shields.io/github/forks/SargolMazraedoost/RT-TR?style=social)  
-
 
 
 📌 Full publication list available on [Google Scholar](https://scholar.google.com/citations?user=tosxQUIAAAAJ&hl=en).  
