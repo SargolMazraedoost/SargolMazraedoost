@@ -105,8 +105,7 @@ Hybrid Transformer-BiLSTM trained on METLIN SMRT.
        ⏰ Current Time
 
 <p align="center">
-  <img src="https://readme-time.vercel.app/api?timezone=Asia/Seoul" width="300" alt="Current Digital Time"/>
+  <img src="https://github-readme-clock.vercel.app/api?timezone=Asia/Seoul" width="300" alt="Current Time"/>
 </p>
-
 
 
