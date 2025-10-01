@@ -101,17 +101,10 @@ Hybrid Transformer-BiLSTM trained on METLIN SMRT.
   <img 
        src="https://github-readme-activity-graph.vercel.app/graph?username=SargolMazraedoost&bg_color=000000&color=ffffff&line=9370db&point=ff69b4&area=true&hide_border=true" 
        alt="Contribution Graph" />
-</p>
-## ⏱ Real-time Analytics
+## ⏰ Current Time
 
 <p align="center">
-  <!-- Current Time -->
-  <img src="https://github-readme-clock.vercel.app/api?timezone=Asia/Seoul" width="250" alt="Current Time"/>
-  
-  <!-- Weekly Coding Time -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SargolMazraedoost&layout=compact&theme=radical" width="350" alt="Weekly Coding Time"/>
-  
-  <!-- Commit Activity by Hour -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SargolMazraedoost&theme=radical&utcOffset=9" width="350" alt="Commit Peak Hours"/>
+  <img src="https://github-readme-clock.vercel.app/api?timezone=Asia/Seoul" width="300" alt="Current Time"/>
 </p>
+
 
