@@ -1,23 +1,23 @@
 
 # Sargol Mazraedoost
+<p align="center">
+  <img src="assets/sargol_name.gif" alt="Sargol Mazraedoost – animated name" width="720">
+</p>
+
+<h1 align="center">✨ Sargol Mazraedoost ✨</h1>
+
 
 **Postdoctoral Research Fellow** (Sep 2025 – Present) 
 
-**Ph.D. in Chemical Convergence Engineering** (Aug 2021 – Aug 2025)  
-Intelligent Systems Laboratory, Pukyong National University (PKNU), Busan, South Korea.  
-Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatographic Retention Time Prediction and Binding Affinity Enhancement*  
+## 🎓 Education
 
----
+- **Ph.D.** in Chemical Convergence Engineering – Pukyong National University (PKNU), Busan, South Korea (2021–2025)  
+  *Thesis: Integrative Data-Driven and First-Principle Approaches for Chromatographic Retention Time Prediction and Binding Affinity Enhancement*  
 
-## 🔗 Connect with Me
-- [Google Scholar](https://scholar.google.com/citations?user=tosxQUIAAAAJ&hl=en)  
-- [ResearchGate](https://www.researchgate.net/profile/Sargol_Mazraedoost)  
-- [LinkedIn](https://www.linkedin.com/in/sargol-mazraedoost-95248b150)  
-- [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=57203482383)  
-- [Publons/ResearcherID](https://publons.com/researcher/2975473/sargol-mazraedoost/)  
-- [ORCID](https://orcid.org/0000-0001-6656-1968)  
+- **M.Sc.** in Microbiology – Islamic Azad University of Lahijan, Iran (2017–2019)  
+  *Thesis: New insights into the selective inhibition of the β-carbonic anhydrases of pathogenic bacteria Burkholderia pseudomallei and Francisella tularensis: a proteochemometrics study*  
 
-📧 Email: sargol@pknu.ac.kr | sargol.mazraedoost7@gmail.com  
+- **B.Sc.** in Cell & Molecular Biology (Microbiology) – Islamic Azad University of Lahijan, Iran (2013–2017) 
 
 ---
 
@@ -28,18 +28,6 @@ Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatograp
 - Chromatographic Retention Time Prediction  
 - Protein–Ligand Binding Affinity Enhancement  
 - Molecular Dynamics Simulations  
-
----
-
-## 🎓 Education
-
-- **Ph.D.** in Chemical Convergence Engineering – Pukyong National University (PKNU), Busan, South Korea (2021–2025)  
-  *Thesis: Integrative Data-Driven and First-Principle Approaches for Chromatographic Retention Time Prediction and Binding Affinity Enhancement*  
-
-- **M.Sc.** in Microbiology – Islamic Azad University of Lahijan, Iran (2017–2019)  
-  *Thesis: New insights into the selective inhibition of the β-carbonic anhydrases of pathogenic bacteria Burkholderia pseudomallei and Francisella tularensis: a proteochemometrics study*  
-
-- **B.Sc.** in Cell & Molecular Biology (Microbiology) – Islamic Azad University of Lahijan, Iran (2013–2017)  
 
 ---
 
@@ -54,6 +42,18 @@ Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatograp
 
 ## 🏆 Awards
 - **Outstanding International Student Award**, (자랑스러운 국립 부경대학교 외국인 유학생) from Pukyong National University
+
+---
+
+## 🔗 Connect with Me
+- [Google Scholar](https://scholar.google.com/citations?user=tosxQUIAAAAJ&hl=en)  
+- [ResearchGate](https://www.researchgate.net/profile/Sargol_Mazraedoost)  
+- [LinkedIn](https://www.linkedin.com/in/sargol-mazraedoost-95248b150)  
+- [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=57203482383)  
+- [Publons/ResearcherID](https://publons.com/researcher/2975473/sargol-mazraedoost/)  
+- [ORCID](https://orcid.org/0000-0001-6656-1968)  
+
+📧 Email: sargol@pknu.ac.kr | sargol.mazraedoost7@gmail.com 
 
 ---
 
