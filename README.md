@@ -51,7 +51,6 @@ Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatograp
 **SMILES → Retention-Time Prediction**  
 Hybrid Transformer-BiLSTM trained on METLIN SMRT.  
 
-![Badge](https://img.shields.io/badge/RT--TR-v1.0-blueviolet?style=for-the-badge)  
 [🔗 Demo & Repo](https://github.com/SargolMazraedoost/RT-TR)  
 
 ![Stars](https://img.shields.io/github/stars/SargolMazraedoost/RT-TR?style=social) 
