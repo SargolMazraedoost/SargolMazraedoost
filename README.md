@@ -101,7 +101,7 @@ Hybrid Transformer-BiLSTM trained on METLIN SMRT.
   <img 
        src="https://github-readme-activity-graph.vercel.app/graph?username=SargolMazraedoost&bg_color=000000&color=ffffff&line=9370db&point=ff69b4&area=true&hide_border=true" 
        alt="Contribution Graph" />
-## ⏰ Current Time
+⏰ Current Time
 
 <p align="center">
   <img src="https://github-readme-clock.vercel.app/api?timezone=Asia/Seoul" width="300" alt="Current Time"/>
