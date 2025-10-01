@@ -1,7 +1,5 @@
 
 # Sargol Mazraedoost
-![Sargol Mazraedoost – animated name](assets/sargol_name.gif)
-
 
 **Postdoctoral Research Fellow** (Sep 2025 – Present) 
 
