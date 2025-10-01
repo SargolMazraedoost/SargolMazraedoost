@@ -1,5 +1,9 @@
 
 # Sargol Mazraedoost
+<!-- Centered -->
+<p align="center">
+  <img src="assets/sargol_name.gif" alt="Sargol Mazraedoost – animated name" width="720">
+</p>
 
 **Postdoctoral Research Fellow** (Sep 2025 – Present) 
 
