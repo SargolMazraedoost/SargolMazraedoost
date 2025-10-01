@@ -10,6 +10,8 @@
 
 ## 🎓 Education
 
+- **Postdoctoral Research Fellow** (Sep 2025 – Present)
+  
 - **Ph.D.** in Chemical Convergence Engineering – Pukyong National University (PKNU), Busan, South Korea (2021–2025)  
   *Thesis: Integrative Data-Driven and First-Principle Approaches for Chromatographic Retention Time Prediction and Binding Affinity Enhancement*  
 
