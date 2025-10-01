@@ -3,9 +3,8 @@
 
 **Postdoctoral Research Fellow** (Sep 2025 – Present) 
 <p align="center">
-  <img src="https://undraw.co/api/illustrations/coding_re_6w5d.svg" width="500" alt="Girl coding"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500" alt="Girl coding modern style"/>
 </p>
-
 
 
 **Ph.D. in Chemical Convergence Engineering** (Aug 2021 – Aug 2025)  
