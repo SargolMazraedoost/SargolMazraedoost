@@ -92,5 +92,22 @@ Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatograp
        src="https://github-readme-activity-graph.vercel.app/graph?username=SargolMazraedoost&bg_color=000000&color=ffffff&line=9370db&point=ff69b4&area=true&hide_border=true" 
        alt="Contribution Graph" />
 </p>
+<table>
+<tr>
+<td width="33%" align="center">
+  
+### RT-TR
+![logo](https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/molecule.png)
 
+**SMILES → Retention-Time Prediction**  
+Hybrid Transformer-BiLSTM trained on METLIN SMRT.  
+
+![Badge](https://img.shields.io/badge/RT--TR-v1.0-blueviolet?style=for-the-badge)  
+[🔗 Demo & Repo](https://github.com/SargolMazraedoost/RT-TR)  
+
+![Stars](https://img.shields.io/github/stars/SargolMazraedoost/RT-TR?style=social) 
+![Forks](https://img.shields.io/github/forks/SargolMazraedoost/RT-TR?style=social)  
+
+</td>
+<td width="33%" align="center">
 
