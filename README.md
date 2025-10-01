@@ -102,5 +102,23 @@ Hybrid Transformer-BiLSTM trained on METLIN SMRT.
        alt="Contribution Graph" />
 
     
+## ⏱ Current Time (KST)
+
+<table>
+<tr>
+<td align="center">
+
+<!-- Analog clock -->
+<img src="https://github-readme-clock.vercel.app/api?timezone=Asia/Seoul" width="260" alt="Analog clock (Asia/Seoul)"/>
+
+</td>
+<td align="center">
+
+<!-- Digital clock -->
+<img src="https://readme-time.vercel.app/api?timezone=Asia/Seoul&format=HH:mm:ss" width="260" alt="Digital clock (Asia/Seoul)"/>
+
+</td>
+</tr>
+</table>
 
 
