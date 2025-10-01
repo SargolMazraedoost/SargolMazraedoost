@@ -3,7 +3,7 @@
 
 **Postdoctoral Research Fellow** (Sep 2025 – Present) 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshmangalam/harshmangalam/main/assets/coding-girl.svg" width="400" alt="Female coder"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="400" alt="Coding girl animation"/>
 </p>
 
 
