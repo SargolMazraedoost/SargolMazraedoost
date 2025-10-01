@@ -102,11 +102,7 @@
   <img 
        src="https://github-readme-activity-graph.vercel.app/graph?username=SargolMazraedoost&bg_color=000000&color=ffffff&line=9370db&point=ff69b4&area=true&hide_border=true" 
        alt="Contribution Graph" />
-<p align="center">
-  <img src="assets/sargol_name.gif" alt="Sargol Mazraedoost – animated name" width="720">
-</p>
-<h1 align="center">Sargol Mazraedoost</h1>
-<h3 align="center"><strong>Postdoctoral Research Fellow</strong> (Sep 2025 – Present)</h3>
+
 
 <p align="center">
   <a href="https://doi.org/10.1021/acs.jcim.5c00167"><b>JCIM Front Cover Article</b></a> •
