@@ -27,7 +27,7 @@
 - Cheminformatics and Bioinformatics  
 - Machine Learning/Deep Learning for QSRR and QSAR modeling  
 - Chromatographic Retention Time Prediction  
-- Protein–Ligand Binding Affinity Enhancement  
+- Protein–Protein Binding Affinity Enhancement  
 - Molecular Dynamics Simulations  
 
 ---
