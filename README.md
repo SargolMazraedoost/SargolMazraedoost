@@ -14,7 +14,6 @@
   
 - **Ph.D.** in Chemical Convergence Engineering – Pukyong National University (PKNU), Busan, South Korea (2021–2025)  
   *Thesis: Integrative Data-Driven and First-Principle Approaches for Chromatographic Retention Time Prediction and Binding Affinity Enhancement*
-  
   *Outstanding International Student Award (자랑스러운 국립 부경대학교 외국인 유학생) from Pukyong National University on August 20, 2025.*
 
 - **M.Sc.** in Microbiology – Islamic Azad University of Lahijan, Iran (2017–2019)  
