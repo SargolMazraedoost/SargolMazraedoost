@@ -97,12 +97,4 @@
     
 
 
-## 📈 GitHub Stats
 
-### 🔥 Contributions
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SargolMazraedoost&theme=github)
-
-### 📊 General Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SargolMazraedoost&show_icons=true&theme=default&count_private=true)
-
----
