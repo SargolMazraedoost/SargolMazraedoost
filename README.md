@@ -82,6 +82,13 @@
 
 
 
+<!-- Streak -->
+<p align="left">
+  <img height="150"
+       src="https://streak-stats.demolab.com?user=SargolMazraedoost&background=000000&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideNums=ffffff&sideLabels=ffffff&currStreakNum=ffffff&dates=8a8a8a&border=808080" 
+       alt="GitHub Streak" />
+</p>
+
 <!-- Contribution Graph -->
 <p align="left">
   <img 
