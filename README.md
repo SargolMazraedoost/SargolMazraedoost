@@ -95,6 +95,7 @@
 </p>
 
    
+![GitHub Contributions](assets/contributions.png)
 
 
 
