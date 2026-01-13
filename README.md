@@ -81,19 +81,6 @@
 <!-- ====== PROFILE METRICS (pink/gray/black/white/purple) ====== -->
 
 
-
-<!-- GitHub Stats -->
-<p align="left">
-  <img height="150" 
-       src="https://github-readme-stats.vercel.app/api?username=SargolMazraedoost&show_icons=true&title_color=ff69b4&icon_color=9370db&text_color=ffffff&bg_color=000000&border_color=808080" />
-</p>
-
-<!-- Most Used Languages -->
-<p align="left">
-  <img height="150" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SargolMazraedoost&layout=compact&title_color=ff69b4&text_color=ffffff&bg_color=000000&border_color=808080" />
-</p>
-
 <!-- Contribution Graph -->
 <p align="left">
   <img 
