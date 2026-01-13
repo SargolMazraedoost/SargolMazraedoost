@@ -95,7 +95,8 @@
 </p>
 
    
-![GitHub Contributions](assets/contributions.png)
+### 📊 GitHub Contributions
+👉 [View my official GitHub contribution activity](https://github.com/SargolMazraedoost)
 
 
 
