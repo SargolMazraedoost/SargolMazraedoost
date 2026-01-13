@@ -94,8 +94,7 @@
   <a href="https://scholar.google.com/citations?user=YOUR_ID"><b>Scholar</b></a>
 </p>
 
-    
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SargolMazraedoost&theme=github)
+   
 
 
 
