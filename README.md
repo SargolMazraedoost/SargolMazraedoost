@@ -66,7 +66,7 @@
 
 ---
 
-### 🛠️ Tech & Tools
+### Tech & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Scikit--Learn-ML-yellow?style=for-the-badge&logo=scikitlearn" />
@@ -77,7 +77,7 @@
 
 ---
 
-## 🌍 Languages
+## Languages
 - Persian: Native  
 - English: Professional working proficiency  
 - Korean: Elementary proficiency  
