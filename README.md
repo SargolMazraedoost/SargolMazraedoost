@@ -24,7 +24,7 @@
 
 ---
 
-## 🧪 Research Interests
+## Research Interests
 - Artificial Intelligence in Drug Discovery  
 - Cheminformatics and Bioinformatics  
 - Machine Learning/Deep Learning for QSRR and QSAR modeling  
@@ -34,7 +34,7 @@
 
 ---
 
-## 📄 Selected Publications
+## Selected Publications
 - **Mazraedoost S.**, Žuvela P, Ulenberg S, Bączek T, Liu JJ. *Cross-column density functional theory–based QSRR model development powered by machine learning*. **Analytical and Bioanalytical Chemistry**. 2024. [DOI](https://link.springer.com/article/10.1007/s00216-024-05243-7)  
 - **Mazraedoost S.**, Malekroodi HS, Yi M, Liu JJ, In Lim S. *Integrative computational pipeline for identifying binding-enhancing mutations targeting the MBD2–p66α interaction*. **Bulletin of the Korean Chemical Society**. 2025. [DOI](https://onlinelibrary.wiley.com/doi/full/10.1002/bkcs.12923)  
 - **Mazraedoost S.**, Sedigh Malekroodi H., Žuvela P., Yi M, Liu JJ. *Prediction of chromatographic retention time using a hybrid Transformer-LSTM model*. **Journal of Chemical Information and Modeling**. 2025. [DOI](https://doi.org/10.1021/acs.jcim.5c00167) *(Front cover article)* 🔗 [GitHub Repository](https://github.com/SargolMazraedoost/RT-TR)
@@ -43,8 +43,13 @@
 
 ---
 
-## 🏆 Awards
+## Awards
 - **Outstanding International Student Award**, (자랑스러운 국립 부경대학교 외국인 유학생) from Pukyong National University
+- **Recipient of 3 Presentation Awards at KIChE (2023–2024)** for research on ML/DL-based chromatographic modeling.
+
+---
+## ​Conferences
+- **Poster and Oral presentations at major Korean conferences**, including Korean Chemical Society (KCS), Korean Institute of Chemical Engineers (KIChE), Korean Society for Biotechnology and Bioengineering (KSBB), Korean Society for Microbiology and Biotechnology (KMB), and Korean Peptide and Protein Society (KPPS), 2022–2025.
 
 ---
 
