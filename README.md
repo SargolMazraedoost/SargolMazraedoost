@@ -49,7 +49,8 @@
 
 ---
 ## ​Conferences
-- **Poster and Oral presentations at major Korean conferences**, including Korean Chemical Society (KCS), Korean Institute of Chemical Engineers (KIChE), Korean Society for Biotechnology and Bioengineering (KSBB), Korean Society for Microbiology and Biotechnology (KMB), and Korean Peptide and Protein Society (KPPS), 2022–2025.
+- **Poster and Oral presentations at major Korean conferences**
+  Including Korean Chemical Society (KCS), Korean Institute of Chemical Engineers (KIChE), Korean Society for Biotechnology and Bioengineering (KSBB), Korean Society for Microbiology and Biotechnology (KMB), and Korean Peptide and Protein Society (KPPS), 2022–2025.
 
 ---
 
