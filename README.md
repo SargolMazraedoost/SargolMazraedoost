@@ -11,18 +11,20 @@
 ## 🎓 Education
 
 - **Postdoctoral Research Fellow** (Sep 2025 – Present)
-  
-- **Ph.D.** in Chemical Convergence Engineering – Pukyong National University (PKNU), Busan, South Korea (2021–2025)  
-  *Thesis: Integrative Data-Driven and First-Principle Approaches for Chromatographic Retention Time Prediction and Binding Affinity Enhancement*
-  *Grade: GPA: 4.43 out of 4.50*
-  *Outstanding International Student Award (자랑스러운 국립 부경대학교 외국인 유학생) from Pukyong National University on August 20, 2025.*
-  
 
-- **M.Sc.** in Microbiology – Islamic Azad University of Lahijan, Iran (2017–2019)  
-  *Thesis: New insights into the selective inhibition of the β-carbonic anhydrases of pathogenic bacteria Burkholderia pseudomallei and Francisella tularensis: a proteochemometrics study*
-  *Grade: GPA: 3.94 out of 4*
+- **Ph.D. in Chemical Convergence Engineering**  
+  Pukyong National University (PKNU), Busan, South Korea (2021–2025)
+  - *Thesis:* Integrative Data-Driven and First-Principle Approaches for Chromatographic Retention Time Prediction and Binding Affinity Enhancement
+  - *GPA:* 4.43/4.50
+  - *Award:* Outstanding International Student Award (자랑스러운 국립 부경대학교 외국인 유학생), Pukyong National University, August 20, 2025
 
-- **B.Sc.** in Cell & Molecular Biology (Microbiology) – Islamic Azad University of Lahijan, Iran (2013–2017) 
+- **M.Sc. in Microbiology**  
+  Islamic Azad University of Lahijan, Iran (2017–2019)
+  - *Thesis:* New Insights into the Selective Inhibition of β-Carbonic Anhydrases of Pathogenic Bacteria *Burkholderia pseudomallei* and *Francisella tularensis*: A Proteochemometrics Study
+  - *GPA:* 3.94/4.00
+
+- **B.Sc. in Cell and Molecular Biology (Microbiology)**  
+  Islamic Azad University of Lahijan, Iran (2013–2017)
 
 ---
 
