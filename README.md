@@ -101,7 +101,7 @@
 <p align="center">
   <a href="https://scholar.google.com/citations?user=tosxQUIAAAAJ&hl=en"><b>Google Scholar</b></a> •
   <a href="https://orcid.org/0000-0001-6656-1968"><b>ORCID</b></a> •
-  <li><a href="https://sciprofiles.com/profile/SargolMazraedoost">SciProfiles</a></li> •
+  <a href="https://sciprofiles.com/profile/SargolMazraedoost"><b>SciProfiles</b></a> •
   <a href="https://www.linkedin.com/in/sargol-mazraedoost-95248b150/"><b>LinkedIn</b></a> •
   <a href="https://doi.org/10.1021/acs.jcim.5c00167"><b>JCIM Cover Paper</b></a> •
   <a href="https://github.com/SargolMazraedoost/RT-TR"><b>RT-TR Code</b></a>
