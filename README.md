@@ -101,9 +101,9 @@
 <p align="center">
   <a href="https://doi.org/10.1021/acs.jcim.5c00167"><b>JCIM Paper</b></a> •
   <a href="https://github.com/SargolMazraedoost/RT-TR"><b>RT-TR Code</b></a> •
-  <a href="https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"><b>Google Scholar</b></a> •
+  <a href="https://scholar.google.com/citations"><b>Google Scholar</b></a> •
   <a href="https://orcid.org/0000-0001-6656-1968"><b>ORCID</b></a> •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><b>LinkedIn</b></a>
+  <a href="https://sciprofiles.com/profile/SargolMazraedoost"><b>SciProfiles</b></a>
 </p>
 
    
