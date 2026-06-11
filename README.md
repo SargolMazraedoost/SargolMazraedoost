@@ -1,115 +1,168 @@
-
-
 <p align="center">
   <img src="assets/sargol_name.gif" alt="Sargol Mazraedoost – animated name" width="720">
 </p>
 
-<h1 align="center">🔹 Sargol Mazraedoost 🔹</h1>
+<h1 align="center">Sargol Mazraedoost, Ph.D.</h1>
 
-<h3 align="center"><strong>Postdoctoral Research Fellow</strong> (Sep 2025 – Present)</h3>
-
-## 🎓 Education
-
-- **Postdoctoral Research Fellow** (Sep 2025 – Present)
-
-- **Ph.D. in Chemical Convergence Engineering**  
-  Pukyong National University (PKNU), Busan, South Korea (2021–2025)
-  - *Thesis:* Integrative Data-Driven and First-Principle Approaches for Chromatographic Retention Time Prediction and Binding Affinity Enhancement
-  - *GPA:* 4.43/4.50
-  - *Award:* Outstanding International Student Award (자랑스러운 국립 부경대학교 외국인 유학생), Pukyong National University, August 20, 2025
-
-- **M.Sc. in Microbiology**  
-  Islamic Azad University of Lahijan, Iran (2017–2019)
-  - *Thesis:* New Insights into the Selective Inhibition of β-Carbonic Anhydrases of Pathogenic Bacteria *Burkholderia pseudomallei* and *Francisella tularensis*: A Proteochemometrics Study
-  - *GPA:* 3.94/4.00
-
-- **B.Sc. in Cell and Molecular Biology (Microbiology)**  
-  Islamic Azad University of Lahijan, Iran (2013–2017)
-
----
-
-## Research Interests
-- Artificial Intelligence in Drug Discovery  
-- Cheminformatics and Bioinformatics  
-- Machine Learning/Deep Learning for QSRR and QSAR modeling  
-- Chromatographic Retention Time Prediction  
-- Protein–Protein Binding Affinity Enhancement  
-- Molecular Dynamics Simulations  
-
----
-
-## Selected Journal Publications (First-author publications only):
-- **Mazraedoost S.**, Žuvela P, Ulenberg S, Bączek T, Liu JJ. *Cross-column density functional theory–based QSRR model development powered by machine learning*. **Analytical and Bioanalytical Chemistry**. 2024. [DOI](https://link.springer.com/article/10.1007/s00216-024-05243-7)  
-- **Mazraedoost S.**, Malekroodi HS, Yi M, Liu JJ, In Lim S. *Integrative computational pipeline for identifying binding-enhancing mutations targeting the MBD2–p66α interaction*. **Bulletin of the Korean Chemical Society**. 2025. [DOI](https://onlinelibrary.wiley.com/doi/full/10.1002/bkcs.12923)  
-- **Mazraedoost S.**, Sedigh Malekroodi H., Žuvela P., Yi M, Liu JJ. *Prediction of chromatographic retention time using a hybrid Transformer-LSTM model*. **Journal of Chemical Information and Modeling**. 2025. [DOI](https://doi.org/10.1021/acs.jcim.5c00167) *(Front cover article)* 🔗 [GitHub Repository](https://github.com/SargolMazraedoost/RT-TR)
-
-📌 Full publication list available on [Google Scholar](https://scholar.google.com/citations?user=tosxQUIAAAAJ&hl=en).  
-
----
-
-## Awards
-- **Outstanding International Student Award**, (자랑스러운 국립 부경대학교 외국인 유학생) from Pukyong National University
-- **Recipient of 3 Presentation Awards at KIChE (2023–2024)** for research on ML/DL-based chromatographic modeling.
-
----
-## ​Conferences
-- **Poster and Oral presentations at major Korean conferences**
-  Including Korean Chemical Society (KCS), Korean Institute of Chemical Engineers (KIChE), Korean Society for Biotechnology and Bioengineering (KSBB), Korean Society for Microbiology and Biotechnology (KMB), and Korean Peptide and Protein Society (KPPS), 2022–2025.
-
----
-
-## 🔗 Connect with Me
-- [Google Scholar](https://scholar.google.com/citations?user=tosxQUIAAAAJ&hl=en)  
-- [ResearchGate](https://www.researchgate.net/profile/Sargol_Mazraedoost)  
-- [LinkedIn](https://www.linkedin.com/in/sargol-mazraedoost-95248b150)  
-- [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=57203482383)  
-- [Publons/ResearcherID](https://publons.com/researcher/2975473/sargol-mazraedoost/)  
-- [ORCID](https://orcid.org/0000-0001-6656-1968)  
-
-📧 Email: sargol@pknu.ac.kr | sargol.mazraedoost7@gmail.com 
-
----
-
-### Tech & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-ML-yellow?style=for-the-badge&logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/PyTorch-DL-red?style=for-the-badge&logo=pytorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/MD_Simulations-green?style=for-the-badge&logo=OpenMM" />
-</p>
-
----
-
-## Languages
-- Persian: Native  
-- English: Professional working proficiency  
-- Korean: Elementary proficiency  
-
-
-
-<!-- ====== PROFILE METRICS (pink/gray/black/white/purple) ====== -->
-
-
-<!-- Contribution Graph -->
-<p align="left">
-  <img 
-       src="https://github-readme-activity-graph.vercel.app/graph?username=SargolMazraedoost&bg_color=000000&color=ffffff&line=9370db&point=ff69b4&area=true&hide_border=true" 
-       alt="Contribution Graph" />
-
+<h3 align="center">Postdoctoral Research Fellow | Cheminformatics | Bioinformatics | AI for Drug Discovery</h3>
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=tosxQUIAAAAJ&hl=en"><b>Google Scholar</b></a> •
   <a href="https://orcid.org/0000-0001-6656-1968"><b>ORCID</b></a> •
   <a href="https://sciprofiles.com/profile/SargolMazraedoost"><b>SciProfiles</b></a> •
-  <a href="https://www.linkedin.com/in/sargol-mazraedoost-95248b150/"><b>LinkedIn</b></a> •
+  <a href="https://www.linkedin.com/in/sargol-mazraedoost-95248b150"><b>LinkedIn</b></a> •
   <a href="https://doi.org/10.1021/acs.jcim.5c00167"><b>JCIM Cover Paper</b></a> •
   <a href="https://github.com/SargolMazraedoost/RT-TR"><b>RT-TR Code</b></a>
 </p>
 
-   
-### 📊 GitHub Contributions
-👉 [View my official GitHub contribution activity](https://github.com/SargolMazraedoost)
+---
+
+## About Me
+
+Postdoctoral Research Fellow at Pukyong National University (PKNU), South Korea, with research interests in artificial intelligence for drug discovery, cheminformatics, bioinformatics, molecular modeling, and chromatographic retention time prediction.
+
+My work integrates machine learning, deep learning, molecular docking, molecular dynamics simulations, and first-principles calculations to address challenges in drug discovery and molecular sciences.
+
+---
+
+## Education
+
+### Postdoctoral Research Fellow
+**Pukyong National University (PKNU), South Korea**  
+Sep 2025 – Present
+
+### Ph.D. in Chemical Convergence Engineering
+**Pukyong National University (PKNU), South Korea**  
+2021 – 2025
+
+- Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatographic Retention Time Prediction and Binding Affinity Enhancement*
+- GPA: 4.43 / 4.50
+- Outstanding International Student Award (2025)
+
+### M.Sc. in Microbiology
+**Islamic Azad University of Lahijan, Iran**  
+2017 – 2019
+
+- GPA: 3.94 / 4.00
+- Thesis: *Proteochemometrics Study of β-Carbonic Anhydrases in Pathogenic Bacteria*
+
+### B.Sc. in Cell and Molecular Biology (Microbiology)
+**Islamic Azad University of Lahijan, Iran**  
+2013 – 2017
+
+---
+
+## Research Interests
+
+- Artificial Intelligence in Drug Discovery
+- Cheminformatics and Bioinformatics
+- Machine Learning and Deep Learning
+- QSRR and QSAR Modeling
+- Chromatographic Retention Time Prediction
+- Molecular Docking
+- Molecular Dynamics Simulations
+- Protein–Protein Interactions
+- Binding Affinity Prediction
+- Explainable AI (XAI)
+
+---
+
+## Selected Publications
+
+### 2025
+**Mazraedoost S.**, Sedigh Malekroodi H., Žuvela P., Yi M., Liu J.J.
+
+*Prediction of Chromatographic Retention Time Using a Hybrid Transformer–LSTM Model*
+
+**Journal of Chemical Information and Modeling**
+
+🔗 DOI: https://doi.org/10.1021/acs.jcim.5c00167
+
+Front Cover Article
+
+💻 GitHub: https://github.com/SargolMazraedoost/RT-TR
+
+### 2025
+**Mazraedoost S.**, Malekroodi H.S., Yi M., Liu J.J., Lim S.I.
+
+*Integrative Computational Pipeline for Identifying Binding-Enhancing Mutations Targeting the MBD2–p66α Interaction*
+
+**Bulletin of the Korean Chemical Society**
+
+### 2024
+**Mazraedoost S.**, Žuvela P., Ulenberg S., Bączek T., Liu J.J.
+
+*Cross-Column Density Functional Theory–Based QSRR Model Development Powered by Machine Learning*
+
+**Analytical and Bioanalytical Chemistry**
+
+---
+
+## Awards
+
+- Outstanding International Student Award, Pukyong National University (2025)
+- Multiple Presentation Awards at KIChE Conferences (2023–2024)
+
+---
+
+## Conferences
+
+Presentations at:
+
+- Korean Chemical Society (KCS)
+- Korean Institute of Chemical Engineers (KIChE)
+- Korean Society for Biotechnology and Bioengineering (KSBB)
+- Korean Society for Microbiology and Biotechnology (KMB)
+- Korean Peptide and Protein Society (KPPS)
+
+(2022–2025)
+
+---
+
+## 🔗 Connect with Me
+
+- Google Scholar: https://scholar.google.com/citations?user=tosxQUIAAAAJ&hl=en
+- ResearchGate: https://www.researchgate.net/profile/Sargol_Mazraedoost
+- Scopus Author ID: https://www.scopus.com/authid/detail.uri?authorId=57203482383
+- Publons / ResearcherID: https://publons.com/researcher/2975473/sargol-mazraedoost/
+- ORCID: https://orcid.org/0000-0001-6656-1968
+- SciProfiles: https://sciprofiles.com/profile/SargolMazraedoost
+- LinkedIn: https://www.linkedin.com/in/sargol-mazraedoost-95248b150
+
+📧 **Email:** sargol@pknu.ac.kr | sargol.mazraedoost7@gmail.com
+
+---
+
+## Tech & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/PyTorch-DL-red?style=for-the-badge&logo=pytorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-yellow?style=for-the-badge&logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/RDKit-Cheminformatics-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Molecular_Dynamics-GROMACS-success?style=for-the-badge" />
+</p>
+
+---
+
+## Languages
+
+- Persian — Native
+- English — Professional Working Proficiency
+- Korean — Elementary Proficiency
+
+---
+
+## GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SargolMazraedoost&bg_color=000000&color=ffffff&line=9370db&point=ff69b4&area=true&hide_border=true" />
+</p>
+
+### GitHub Contributions
+
+https://github.com/SargolMazraedoost
 
 
 
