@@ -127,9 +127,8 @@ Postdoctoral Research Fellow | Cheminformatics | Bioinformatics | AI for Drug Di
 
 ## Awards
 
-* Outstanding International Student Award, Pukyong National University (2025)
-* Outstanding Paper Award, Korean Institute of Chemical Engineers (KIChE) (2024)
-* Multiple Presentation Awards at KIChE Conferences (2023–2024)
+* Outstanding International Student Award 자랑스러운 국립 부경대학교 외국인 유학생. From Pukyong National University on August 20, 2025.
+* Recipient of 3 Presentation Awards at KIChE (2023–2024) for research on ML/DL-based chromatographic modeling.
 
 ---
 
