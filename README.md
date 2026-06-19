@@ -161,7 +161,7 @@ Presentations at:
 
 ## 🔗 Connect with Me
 
-* Google Scholar: [tosxQUIAAAAJ](https://scholar.google.com/citations?user=tosxQUIAAAAJ&hl=en)
+* Google Scholar: [Sargol Mazraedoost](https://scholar.google.com/citations?user=tosxQUIAAAAJ&hl=en)
 * ResearchGate: [Sargol Mazraedoost](https://www.researchgate.net/profile/Sargol_Mazraedoost)
 * Scopus Author ID: [57203482383](https://www.scopus.com/authid/detail.uri?authorId=57203482383)
 * Publons / ResearcherID: [2975473](https://publons.com/researcher/2975473/sargol-mazraedoost/)
