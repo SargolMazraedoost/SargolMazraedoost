@@ -63,7 +63,6 @@ Sep 2025 – Present
 - Molecular Dynamics Simulations
 - Protein–Protein Interactions
 - Binding Affinity Prediction
-- Explainable AI (XAI)
 
 ---
 
