@@ -113,23 +113,25 @@ Sep 2025 – Present
 
 **Journal of Chemical Information and Modeling** (2025)
 
-🏆 **Front Cover Article**
+**Front Cover Article**
 
 - Proposed a hybrid Transformer–Bidirectional Long Short-Term Memory (BiLSTM) architecture for direct retention time prediction from molecular SMILES representations.
 - Achieved high predictive accuracy (MAE = 26.97 s, MAPE = 3.35%, R² = 0.90).
 - Demonstrated strong generalizability and transferability across independent chromatographic datasets.
 
-🔗 **DOI:** [10.1021/acs.jcim.5c00167](https://doi.org/10.1021/acs.jcim.5c00167)
+**DOI:** [10.1021/acs.jcim.5c00167](https://doi.org/10.1021/acs.jcim.5c00167)
 
-💻 **Code:** [RT-TR GitHub Repository](https://github.com/SargolMazraedoost/RT-TR)
+**Code:** [RT-TR GitHub Repository](https://github.com/SargolMazraedoost/RT-TR)
 ```
 
 
+```markdown
 ---
 
 ## Awards
 
 - Outstanding International Student Award, Pukyong National University (2025)
+- Outstanding Paper Award, Korean Institute of Chemical Engineers (KIChE) (2024)
 - Multiple Presentation Awards at KIChE Conferences (2023–2024)
 
 ---
@@ -144,34 +146,34 @@ Presentations at:
 - Korean Society for Microbiology and Biotechnology (KMB)
 - Korean Peptide and Protein Society (KPPS)
 
-(2022–2025)
+**Period:** 2022–2025
 
 ---
 
-## 🔗 Connect with Me
+## 🔗Connect with Me
 
-- Google Scholar: https://scholar.google.com/citations?user=tosxQUIAAAAJ&hl=en
-- ResearchGate: https://www.researchgate.net/profile/Sargol_Mazraedoost
-- Scopus Author ID: https://www.scopus.com/authid/detail.uri?authorId=57203482383
-- Publons / ResearcherID: https://publons.com/researcher/2975473/sargol-mazraedoost/
-- ORCID: https://orcid.org/0000-0001-6656-1968
-- SciProfiles: https://sciprofiles.com/profile/SargolMazraedoost
-- LinkedIn: https://www.linkedin.com/in/sargol-mazraedoost-95248b150
-- Personal Website: https://sites.google.com/view/sargol-mazraedoost?usp=sharing
+- Google Scholar: [tosxQUIAAAAJ](https://scholar.google.com/citations?user=tosxQUIAAAAJ&hl=en)
+- ResearchGate: [Sargol Mazraedoost](https://www.researchgate.net/profile/Sargol_Mazraedoost)
+- Scopus Author ID: [57203482383](https://www.scopus.com/authid/detail.uri?authorId=57203482383)
+- Publons / ResearcherID: [2975473](https://publons.com/researcher/2975473/sargol-mazraedoost/)
+- ORCID: [0000-0001-6656-1968](https://orcid.org/0000-0001-6656-1968)
+- SciProfiles: [SargolMazraedoost](https://sciprofiles.com/profile/SargolMazraedoost)
+- LinkedIn: [Sargol Mazraedoost](https://www.linkedin.com/in/sargol-mazraedoost-95248b150)
+- Personal Website: [Academic Website](https://sites.google.com/view/sargol-mazraedoost)
 
-📧 **Email:** sargol@pknu.ac.kr | sargol.mazraedoost7@gmail.com
+📧 **Email:** [sargol@pknu.ac.kr](mailto:sargol@pknu.ac.kr) | [sargol.mazraedoost7@gmail.com](mailto:sargol.mazraedoost7@gmail.com)
 
 ---
 
-## Tech & Tools
+## 🛠️ Tech & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/PyTorch-DL-red?style=for-the-badge&logo=pytorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-ML-yellow?style=for-the-badge&logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/PyTorch-Deep_Learning-red?style=for-the-badge&logo=pytorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-Deep_Learning-orange?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-Machine_Learning-yellow?style=for-the-badge&logo=scikitlearn" />
   <img src="https://img.shields.io/badge/RDKit-Cheminformatics-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Molecular_Dynamics-GROMACS-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GROMACS-Molecular_Dynamics-success?style=for-the-badge" />
 </p>
 
 ---
@@ -192,7 +194,5 @@ Presentations at:
 
 ### GitHub Contributions
 
-https://github.com/SargolMazraedoost
-
-
-
+🔗 https://github.com/SargolMazraedoost
+```
