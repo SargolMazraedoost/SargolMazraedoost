@@ -54,21 +54,26 @@ Sep 2025 – Present
 
 ## Research Interests
 
-- Artificial Intelligence in Drug Discovery
-- Cheminformatics and Bioinformatics
+- Artificial Intelligence for Drug Discovery
+- AI-Driven Cheminformatics and Bioinformatics
 - Machine Learning and Deep Learning
-- QSRR and QSAR Modeling
+- Density Functional Theory (DFT) and Quantum Chemical Modeling
+- Quantitative Structure–Retention Relationship (QSRR) Modeling
+- Quantitative Structure–Activity Relationship (QSAR) Modeling
+- Molecular Representation Learning and SMILES-Based Modeling
 - Chromatographic Retention Time Prediction
-- Molecular Docking
-- Molecular Dynamics Simulations
-- Protein–Protein Interactions
+- Molecular Docking and Virtual Screening
+- Molecular Dynamics (MD) Simulations
+- Binding Free Energy Calculations
+- Protein–Protein and Protein–Ligand Interaction Analysis
 - Binding Affinity Prediction
+- Computational Drug Design and Molecular Modeling
 
 ---
 
 ## Selected Publications (First-author publications only)
 
-### 2025
+### 
 **Mazraedoost S.**, Sedigh Malekroodi H., Žuvela P., Yi M., Liu J.J.
 
 *Prediction of Chromatographic Retention Time Using a Hybrid Transformer–LSTM Model*
@@ -81,14 +86,14 @@ Front Cover Article
 
 💻 GitHub: https://github.com/SargolMazraedoost/RT-TR
 
-### 2025
+### 
 **Mazraedoost S.**, Malekroodi H.S., Yi M., Liu J.J., Lim S.I.
 
 *Integrative Computational Pipeline for Identifying Binding-Enhancing Mutations Targeting the MBD2–p66α Interaction*
 
 **Bulletin of the Korean Chemical Society**
 
-### 2024
+### 
 **Mazraedoost S.**, Žuvela P., Ulenberg S., Bączek T., Liu J.J.
 
 *Cross-Column Density Functional Theory–Based QSRR Model Development Powered by Machine Learning*
