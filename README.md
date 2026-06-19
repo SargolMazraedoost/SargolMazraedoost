@@ -31,7 +31,7 @@ Postdoctoral Research Fellow | Cheminformatics | Bioinformatics | AI for Drug Di
 ### Ph.D. in Chemical Convergence Engineering
 
 **Pukyong National University (PKNU), Busan, South Korea**
-**2021 – 2025**
+**Aug 2021 – Aug 2025**
 
 * Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatographic Retention Time Prediction and Binding Affinity Enhancement*
 * GPA: 4.43 / 4.50
@@ -40,7 +40,7 @@ Postdoctoral Research Fellow | Cheminformatics | Bioinformatics | AI for Drug Di
 ### M.Sc. in Microbiology
 
 **Islamic Azad University of Lahijan, Iran**
-**2017 – 2019**
+**Jan 2017 – Jan 2019**
 
 * GPA: 3.94 / 4.00
 * Thesis: *Investigating the Chemical Interaction Space Governed by Bacterial Carbonic Anhydrases and Carbonic Anhydrase Inhibitors in Burkholderia pseudomallei and Francisella tularensis*
@@ -48,7 +48,7 @@ Postdoctoral Research Fellow | Cheminformatics | Bioinformatics | AI for Drug Di
 ### B.Sc. in Cell and Molecular Biology (Microbiology)
 
 **Islamic Azad University of Lahijan, Iran**
-**2013 – 2017**
+**Sep 2013 – Jan 2017**
 
 ---
 
