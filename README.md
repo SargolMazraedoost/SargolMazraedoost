@@ -17,19 +17,7 @@ Postdoctoral Research Fellow | Cheminformatics | Bioinformatics | AI for Drug Di
   <a href="https://github.com/SargolMazraedoost/RT-TR"><b>RT-TR Code</b></a>
 </p>
 
----
 
-## About Me
-
-I am a Postdoctoral Research Fellow at **Pukyong National University (PKNU), South Korea**, specializing in **artificial intelligence for drug discovery**, **cheminformatics**, **bioinformatics**, and **computational molecular sciences**.
-
-My research integrates **machine learning**, **deep learning**, **density functional theory (DFT)**, **molecular docking**, **molecular dynamics simulations**, and **binding free energy calculations** to address challenges in:
-
-* Drug discovery and molecular design
-* Chromatographic retention time prediction
-* Protein–protein and protein–ligand interactions
-* Binding affinity prediction
-* Molecular representation learning
 
 ---
 
