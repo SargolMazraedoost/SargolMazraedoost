@@ -73,32 +73,57 @@ Sep 2025 – Present
 
 ## Selected Publications (First-author publications only)
 
-### 
-**Mazraedoost S.**, Sedigh Malekroodi H., Žuvela P., Yi M., Liu J.J.
+### Cross-Column Retention Time Prediction Using Quantitative Structure–Retention Relationship (QSRR) Modeling
 
-*Prediction of Chromatographic Retention Time Using a Hybrid Transformer–LSTM Model*
+**Mazraedoost S.**, Žuvela P., Ulenberg S., Bączek T., Liu J.J.
 
-**Journal of Chemical Information and Modeling**
+*Cross-Column Density Functional Theory-Based QSRR Model Development Powered by Machine Learning*
 
-🔗 DOI: https://doi.org/10.1021/acs.jcim.5c00167
+**Analytical and Bioanalytical Chemistry** (2024)
 
-Front Cover Article
+- Developed machine learning models integrated with density functional theory (DFT)-derived quantum chemical descriptors.
+- Predicted chromatographic retention times across different reversed-phase high-performance liquid chromatography (RP-HPLC) columns and experimental conditions.
+- Demonstrated high predictive performance and transferability across chromatographic systems.
 
-💻 GitHub: https://github.com/SargolMazraedoost/RT-TR
+🔗 **DOI:** [10.1007/s00216-024-05243-7](https://doi.org/10.1007/s00216-024-05243-7)
 
-### 
+---
+
+### Binding Affinity Enhancement of the MBD2–p66α Protein–Protein Interaction
+
 **Mazraedoost S.**, Malekroodi H.S., Yi M., Liu J.J., Lim S.I.
 
 *Integrative Computational Pipeline for Identifying Binding-Enhancing Mutations Targeting the MBD2–p66α Interaction*
 
-**Bulletin of the Korean Chemical Society**
+**Bulletin of the Korean Chemical Society** (2025)
 
-### 
-**Mazraedoost S.**, Žuvela P., Ulenberg S., Bączek T., Liu J.J.
+- Developed an integrative computational framework combining mutation screening, molecular dynamics simulations, and free-energy calculations.
+- Identified stabilizing mutations in coiled-coil protein–protein interactions.
+- Provided insights for the rational design of therapeutic protein complexes.
 
-*Cross-Column Density Functional Theory–Based QSRR Model Development Powered by Machine Learning*
+🔗 **DOI:** [10.1002/bkcs.12923](https://doi.org/10.1002/bkcs.12923)
 
-**Analytical and Bioanalytical Chemistry**
+---
+
+### SMILES-Based Retention Time Prediction Using Deep Learning
+
+**Mazraedoost S.**, Sedigh Malekroodi H., Žuvela P., Yi M., Liu J.J.
+
+*Prediction of Chromatographic Retention Time Using a Hybrid Transformer–LSTM Model*
+
+**Journal of Chemical Information and Modeling** (2025)
+
+🏆 **Front Cover Article**
+
+- Proposed a hybrid Transformer–Bidirectional Long Short-Term Memory (BiLSTM) architecture for direct retention time prediction from molecular SMILES representations.
+- Achieved high predictive accuracy (MAE = 26.97 s, MAPE = 3.35%, R² = 0.90).
+- Demonstrated strong generalizability and transferability across independent chromatographic datasets.
+
+🔗 **DOI:** [10.1021/acs.jcim.5c00167](https://doi.org/10.1021/acs.jcim.5c00167)
+
+💻 **Code:** [RT-TR GitHub Repository](https://github.com/SargolMazraedoost/RT-TR)
+```
+
 
 ---
 
