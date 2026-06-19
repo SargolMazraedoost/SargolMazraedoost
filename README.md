@@ -66,7 +66,7 @@ Sep 2025 – Present
 
 ---
 
-## Selected Publications
+## Selected Publications (First-author publications only)
 
 ### 2025
 **Mazraedoost S.**, Sedigh Malekroodi H., Žuvela P., Yi M., Liu J.J.
