@@ -25,12 +25,12 @@ Postdoctoral Research Fellow | Cheminformatics | Bioinformatics | AI for Drug Di
 
 ### Postdoctoral Research Fellow
 
-**Pukyong National University (PKNU), South Korea**
+**Pukyong National University (PKNU), Busan, South Korea**
 **Sep 2025 – Present**
 
 ### Ph.D. in Chemical Convergence Engineering
 
-**Pukyong National University (PKNU), South Korea**
+**Pukyong National University (PKNU), Busan, South Korea**
 **2021 – 2025**
 
 * Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatographic Retention Time Prediction and Binding Affinity Enhancement*
