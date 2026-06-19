@@ -127,8 +127,7 @@ Presentations at:
 - ORCID: https://orcid.org/0000-0001-6656-1968
 - SciProfiles: https://sciprofiles.com/profile/SargolMazraedoost
 - LinkedIn: https://www.linkedin.com/in/sargol-mazraedoost-95248b150
-
-- 🔗https://sites.google.com/view/sargol-mazraedoost?usp=sharing
+- Personal Website: https://sites.google.com/view/sargol-mazraedoost?usp=sharing
 
 📧 **Email:** sargol@pknu.ac.kr | sargol.mazraedoost7@gmail.com
 
