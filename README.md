@@ -55,7 +55,7 @@ My research integrates **machine learning**, **deep learning**, **density functi
 **2017 – 2019**
 
 * GPA: 3.94 / 4.00
-* Thesis: *Proteochemometrics Study of β-Carbonic Anhydrases in Pathogenic Bacteria*
+* Thesis: *Investigating the Chemical Interaction Space Governed by Bacterial Carbonic Anhydrases and Carbonic Anhydrase Inhibitors in Burkholderia pseudomallei and Francisella tularensis*
 
 ### B.Sc. in Cell and Molecular Biology (Microbiology)
 
