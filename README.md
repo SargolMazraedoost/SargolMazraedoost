@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Postdoctoral Research Fellow | Cheminformatics | Bioinformatics | AI for Drug Discovery
+Postdoctoral Research Fellow | AI-Driven Cheminformatics and Bioinformatics
 </p>
 
 <p align="center">
