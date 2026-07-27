@@ -21,12 +21,14 @@ Postdoctoral Research Fellow | AI-Driven Cheminformatics and Bioinformatics
 
 ---
 
-## Education
+## Academic Appointments
 
 ### Postdoctoral Research Fellow
 
 **Pukyong National University (PKNU), Busan, South Korea**
 **Sep 2025 – Present**
+
+## Education
 
 ### Ph.D. in Chemical Convergence Engineering
 
