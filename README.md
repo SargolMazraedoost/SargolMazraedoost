@@ -1,14 +1,8 @@
 <div align="center">
 
-<img src="header.gif" alt="Pixel-art city skyline with a flying bird" width="100%" />
+<img src="github-profile-banner.png" alt="Snowy pixel-art bus stop overlooking a mountain city" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=2800&pause=900&color=606383&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I%27m+Sargol+Mazraedoost%2C+Ph.D.;I+turn+molecules+into+computable+insight.;AI+%C3%97+cheminformatics+%C3%97+physical+chemistry" alt="Animated introduction" />
-
-<p>
-  <a href="https://scholar.google.com/citations?user=tosxQUIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
-  <a href="https://orcid.org/0000-0001-6656-1968"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
-  <a href="https://www.linkedin.com/in/sargol-mazraedoost-95248b150"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
 
 <p><i>Postdoctoral Research Fellow · Pukyong National University · Busan, South Korea</i></p>
 
