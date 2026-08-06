@@ -196,7 +196,9 @@ Presentations at:
 
 
 
-
+<p align="center">
+  <img src="./github-profile-banner.png" alt="Banner" width="100%">
+</p>
 
 
 
