@@ -200,11 +200,5 @@ Presentations at:
 
 
 <p align="center">
-  <img
-    src="./github-profile-banner.png"
-    alt="Sargol Mazraedoost — Computational Chemist and AI Researcher"
-    width="100%"
-  />
+  <img src="./github-profile-banner.png" width="100%" alt="Banner">
 </p>
-
-<br>
