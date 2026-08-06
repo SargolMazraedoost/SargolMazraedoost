@@ -195,7 +195,5 @@ Presentations at:
 </p>
 
 
-<p align="center">
-  <img src="./github-profile-banner.png" alt="Sargol Mazraedoost winter banner" width="100%" />
-</p>
+
 
