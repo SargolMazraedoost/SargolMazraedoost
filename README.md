@@ -194,3 +194,17 @@ Presentations at:
   <a href="https://github.com/SargolMazraedoost">GitHub Contributions</a>
 </p>
 
+
+
+
+
+
+<p align="center">
+  <img
+    src="./github-profile-banner.png"
+    alt="Sargol Mazraedoost — Computational Chemist and AI Researcher"
+    width="100%"
+  />
+</p>
+
+<br>
