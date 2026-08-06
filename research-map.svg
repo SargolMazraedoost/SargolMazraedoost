@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 390" role="img" aria-labelledby="title desc">
+  <title id="title">Sargol Mazraedoost research map</title>
+  <desc id="desc">AI and chemistry at the center, connected to cheminformatics, deep learning, DFT, molecular dynamics, binding affinity, and retention time.</desc>
+  <rect width="1000" height="390" rx="22" fill="#444b67"/>
+
+  <g stroke="#8fa5b6" stroke-width="2" stroke-dasharray="3 9" opacity=".8">
+    <line x1="500" y1="195" x2="180" y2="85"/>
+    <line x1="500" y1="195" x2="180" y2="305"/>
+    <line x1="500" y1="195" x2="820" y2="85"/>
+    <line x1="500" y1="195" x2="820" y2="305"/>
+    <line x1="500" y1="195" x2="500" y2="55"/>
+    <line x1="500" y1="195" x2="500" y2="335"/>
+  </g>
+
+  <!-- animated research signals moving out from the center -->
+  <g fill="#f3a09d">
+    <circle r="4"><animateMotion path="M 500 195 L 180 85" dur="3.8s" repeatCount="indefinite"/></circle>
+    <circle r="4"><animateMotion path="M 500 195 L 180 305" dur="4.2s" begin=".4s" repeatCount="indefinite"/></circle>
+    <circle r="4"><animateMotion path="M 500 195 L 820 85" dur="4s" begin=".8s" repeatCount="indefinite"/></circle>
+    <circle r="4"><animateMotion path="M 500 195 L 820 305" dur="4.4s" begin="1.2s" repeatCount="indefinite"/></circle>
+    <circle r="4"><animateMotion path="M 500 195 L 500 55" dur="2.8s" begin=".2s" repeatCount="indefinite"/></circle>
+    <circle r="4"><animateMotion path="M 500 195 L 500 335" dur="3.1s" begin="1s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g fill="#606383" stroke="#9ebcc3" stroke-width="3">
+    <rect x="52" y="48" width="256" height="74" rx="14"/>
+    <rect x="52" y="268" width="256" height="74" rx="14"/>
+    <rect x="692" y="48" width="256" height="74" rx="14"/>
+    <rect x="692" y="268" width="256" height="74" rx="14"/>
+    <rect x="384" y="18" width="232" height="56" rx="14"/>
+    <rect x="384" y="316" width="232" height="56" rx="14"/>
+  </g>
+
+  <g fill="#eda6c2" font-family="monospace" font-size="18" font-weight="bold">
+    <text x="180" y="80" text-anchor="middle">🧬 CHEMINFORMATICS</text>
+    <text x="180" y="300" text-anchor="middle">🤖 DEEP LEARNING</text>
+    <text x="820" y="80" text-anchor="middle">⚛️ DFT / QUANTUM CHEMISTRY</text>
+    <text x="820" y="300" text-anchor="middle">🔗 MOLECULAR DYNAMICS</text>
+    <text x="500" y="52" text-anchor="middle">⏱ RETENTION TIME</text>
+    <text x="500" y="350" text-anchor="middle">🎯 BINDING AFFINITY</text>
+  </g>
+
+  <circle cx="500" cy="195" r="94" fill="#606383" stroke="#f3a09d" stroke-width="5">
+    <animate attributeName="r" values="94;99;94" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="500" cy="195" r="76" fill="#444b67" stroke="#eda6c2" stroke-width="2" stroke-dasharray="5 8">
+    <animateTransform attributeName="transform" type="rotate" from="0 500 195" to="360 500 195" dur="16s" repeatCount="indefinite"/>
+  </circle>
+  <text x="500" y="188" text-anchor="middle" fill="#f3a09d" font-family="monospace" font-size="27" font-weight="bold">AI ×</text>
+  <text x="500" y="218" text-anchor="middle" fill="#dbe3e6" font-family="monospace" font-size="23" font-weight="bold">CHEMISTRY</text>
+</svg>

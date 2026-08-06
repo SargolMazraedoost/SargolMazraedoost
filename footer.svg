@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 70" role="img" aria-labelledby="title desc">
+  <title id="title">Animated footer accent</title>
+  <desc id="desc">A small animated slate footer line with a moving pink accent.</desc>
+  <rect width="1000" height="70" rx="14" fill="#444b67"/>
+  <line x1="45" y1="35" x2="955" y2="35" stroke="#8fa5b6" stroke-width="2" stroke-dasharray="3 10" opacity=".7"/>
+  <circle cx="45" cy="35" r="6" fill="#eda6c2"/>
+  <circle cx="955" cy="35" r="6" fill="#f3a09d"/>
+  <circle r="5" fill="#dbe3e6">
+    <animateMotion path="M 45 35 L 955 35" dur="4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
