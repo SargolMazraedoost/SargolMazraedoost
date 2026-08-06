@@ -199,7 +199,4 @@ Presentations at:
 
 
 
-[<p align="center">
-  <img src="./github-profile-banner.png" width="100%" alt="Banner">
-</p>
-](https://github.com/SargolMazraedoost/SargolMazraedoost/blob/main/github-profile-banner.png)
+
