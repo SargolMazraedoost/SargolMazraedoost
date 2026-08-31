@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=2800&pause=900&color=606383&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I%27m+Sargol+Mazraedoost%2C+Ph.D.;I+turn+molecules+into+computable+insight.;AI+%C3%97+cheminformatics+%C3%97+physical+chemistry" alt="Animated introduction" />
 
-<p><i>Postdoctoral Research Fellow · Pukyong National University · Busan, South Korea</i></p>
+<p><i>Full-time Research Professor (전임연구교수) · Pukyong National University · Busan, South Korea</i></p>
 
 </div>
 
