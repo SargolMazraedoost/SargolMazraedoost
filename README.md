@@ -91,6 +91,11 @@ An integrative pipeline for computational protein design.
 <details>
 <summary><b>Background, awards, and languages</b></summary>
 
+### Academic Appointments
+
+- **Full-time Research Professor (전임연구교수)**, AI-Driven Cheminformatics and Bioinformatics, Busan, South Korea (Sep 2026–Present)
+- **Postdoctoral Research Fellow**, AI-Driven Cheminformatics and Bioinformatics, Busan, South Korea (Sep 2025–Aug 2026)
+
 ### Education
 
 - **Ph.D. in Chemical Convergence Engineering**, Pukyong National University (2021–2025)
