@@ -121,9 +121,10 @@ Presentations at:
 
 ### Languages
 
-🗣️ **Persian** — Native&nbsp;&nbsp;&nbsp;
-<img src="https://flagcdn.com/24x18/gb.png" alt="United Kingdom flag" /> **English** — Professional&nbsp;&nbsp;&nbsp;
-<img src="https://flagcdn.com/24x18/kr.png" alt="South Korean flag" /> **Korean** — Elementary
+🗣️ 
+ **Persian** — Native&nbsp;&nbsp;&nbsp;
+ **English** — Professional&nbsp;&nbsp;&nbsp;
+ **Korean** — Elementary
 
 </details>
 
