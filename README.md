@@ -121,7 +121,7 @@ Presentations at:
 
 ### Languages
 
-🗣️ 
+ 
  **Persian** — Native&nbsp;&nbsp;&nbsp;
  **English** — Professional&nbsp;&nbsp;&nbsp;
  **Korean** — Elementary
