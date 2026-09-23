@@ -145,7 +145,7 @@ Presentations at:
 
 <div align="center">
 
-### Let’s connect
+### Let’s Connect
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=tosxQUIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>&nbsp;
