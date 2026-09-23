@@ -8,7 +8,7 @@
 
 </div>
 
-## Research workflow
+## Research Workflow
 
 <div align="center">
   <img src="terminal.svg" alt="Molecular AI research workflow terminal" width="100%" />
@@ -20,7 +20,7 @@
   <img src="research-map.svg" alt="Research map connecting AI and chemistry to computational methods and drug-discovery applications" width="96%" />
 </div>
 
-## Selected work
+## Selected Work
 
 <table>
 <tr>
