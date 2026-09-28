@@ -132,6 +132,8 @@ Developing transferable QSRR and deep-learning approaches for predicting chromat
 
 <br>
 
+For the most up-to-date list of publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=tosxQUIAAAAJ&hl=en).
+
 ### 2025
 
 **Prediction of Chromatographic Retention Time Using a Hybrid Transformer–LSTM Model**
