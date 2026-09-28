@@ -1,85 +1,739 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 484" role="img" aria-labelledby="title desc">
-  <title id="title">Molecular AI research workflow terminal</title>
-  <desc id="desc">A slate, pink, and blue terminal dashboard showing a molecular AI workflow and molecular interaction signal.</desc>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1000 484"
+     role="img"
+     aria-labelledby="title desc">
 
-  <!-- header-gif palette: slate navy, dusty blue, blush pink, coral, pale gray -->
-  <rect width="1000" height="484" rx="22" fill="#444b67"/>
-  <rect x="16" y="16" width="968" height="452" rx="17" fill="#606383"/>
+  <title id="title">Molecular AI Research Workflow</title>
+
+  <desc id="desc">
+    A computational research workflow integrating molecular representations,
+    machine learning, validation, molecular dynamics, and interaction analysis
+    to generate predictive and interpretable molecular insight.
+  </desc>
+
   <defs>
+
+    <!-- Typing animation -->
     <clipPath id="typing-line">
-      <rect x="215" y="86" width="430" height="34">
-        <animate attributeName="width" from="0" to="430" dur="1.5s" begin="0s" fill="freeze"/>
+      <rect x="255" y="88" width="0" height="30">
+        <animate
+          attributeName="width"
+          from="0"
+          to="350"
+          dur="1.6s"
+          fill="freeze"
+        />
       </rect>
     </clipPath>
+
+    <!-- Subtle glow -->
+    <filter id="soft-glow"
+            x="-40%"
+            y="-40%"
+            width="180%"
+            height="180%">
+      <feGaussianBlur
+        stdDeviation="5"
+        result="blur"
+      />
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
   </defs>
-  <rect x="16" y="16" width="968" height="58" rx="17" fill="#444b67"/>
-  <rect x="16" y="55" width="968" height="19" fill="#444b67"/>
-  <circle cx="49" cy="45" r="9" fill="#f3a09d"/>
-  <circle cx="79" cy="45" r="9" fill="#eda6c2"/>
-  <circle cx="109" cy="45" r="9" fill="#9ebcc3"/>
-  <text x="500" y="51" text-anchor="middle" fill="#dbe3e6" font-family="monospace" font-size="18">molecular-ai / research-console</text>
 
-  <text x="44" y="112" fill="#f3a09d" font-family="monospace" font-size="20">sargol@pknu</text>
-  <text x="181" y="112" fill="#dbe3e6" font-family="monospace" font-size="20">:</text>
-  <text x="195" y="112" fill="#9ebcc3" font-family="monospace" font-size="20">~</text>
-  <text x="215" y="112" fill="#dbe3e6" font-family="monospace" font-size="20" clip-path="url(#typing-line)">$ molecular-ai --input molecule.smi</text>
+
+  <!-- ======================================================
+       BACKGROUND
+       ====================================================== -->
+
+  <rect
+    width="1000"
+    height="484"
+    rx="22"
+    fill="#444b67"
+  />
+
+  <rect
+    x="16"
+    y="16"
+    width="968"
+    height="452"
+    rx="17"
+    fill="#606383"
+  />
+
+
+  <!-- ======================================================
+       HEADER
+       ====================================================== -->
+
+  <rect
+    x="16"
+    y="16"
+    width="968"
+    height="59"
+    rx="17"
+    fill="#444b67"
+  />
+
+  <rect
+    x="16"
+    y="55"
+    width="968"
+    height="20"
+    fill="#444b67"
+  />
+
+  <!-- Window controls -->
+  <circle cx="49" cy="45" r="8" fill="#f3a09d"/>
+  <circle cx="78" cy="45" r="8" fill="#eda6c2"/>
+  <circle cx="107" cy="45" r="8" fill="#9ebcc3"/>
+
+  <!-- Header title -->
+  <text
+    x="500"
+    y="51"
+    text-anchor="middle"
+    fill="#dbe3e6"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace"
+    font-size="17"
+    font-weight="600"
+    letter-spacing=".5"
+  >
+    MOLECULAR AI / RESEARCH WORKFLOW
+  </text>
+
+
+  <!-- ======================================================
+       COMMAND LINE
+       ====================================================== -->
+
+  <text
+    x="44"
+    y="112"
+    fill="#f3a09d"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace"
+    font-size="18"
+    font-weight="600"
+  >
+    sargol@pknu.ac.kr
+  </text>
+
+  <text
+    x="221"
+    y="112"
+    fill="#dbe3e6"
+    font-family="monospace"
+    font-size="18"
+  >
+    :
+  </text>
+
+  <text
+    x="235"
+    y="112"
+    fill="#9ebcc3"
+    font-family="monospace"
+    font-size="18"
+  >
+    ~
+  </text>
+
+  <text
+    x="255"
+    y="112"
+    fill="#dbe3e6"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace"
+    font-size="18"
+    clip-path="url(#typing-line)"
+  >
+    $ molecular-ai --run research_pipeline
+  </text>
+
+
+  <!-- ======================================================
+       WORKFLOW DIVIDER
+       ====================================================== -->
+
+  <line
+    x1="44"
+    y1="130"
+    x2="588"
+    y2="130"
+    stroke="#8fa5b6"
+    stroke-width="1.5"
+    opacity=".35"
+  />
+
+
+  <!-- ======================================================
+       STEP 01 — REPRESENT
+       ====================================================== -->
 
   <g opacity="0">
-  <text x="47" y="153" fill="#eda6c2" font-family="monospace" font-size="17">01</text>
-  <text x="95" y="153" fill="#dbe3e6" font-family="monospace" font-size="17">encoding</text>
-  <text x="250" y="153" fill="#9ebcc3" font-family="monospace" font-size="17">SMILES + DFT descriptors</text>
-  <rect x="250" y="166" width="330" height="10" rx="5" fill="#444b67" stroke="#8fa5b6" stroke-opacity=".3"/>
-  <rect x="250" y="166" width="275" height="10" rx="5" fill="#eda6c2"/>
-    <animate attributeName="opacity" from="0" to="1" dur=".2s" begin="1.7s" fill="freeze"/>
+
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur=".25s"
+      begin="1.8s"
+      fill="freeze"
+    />
+
+    <text
+      x="47"
+      y="160"
+      fill="#eda6c2"
+      font-family="monospace"
+      font-size="15"
+      font-weight="bold"
+    >
+      01
+    </text>
+
+    <text
+      x="95"
+      y="160"
+      fill="#dbe3e6"
+      font-family="monospace"
+      font-size="16"
+      font-weight="bold"
+    >
+      REPRESENT
+    </text>
+
+    <text
+      x="250"
+      y="160"
+      fill="#9ebcc3"
+      font-family="monospace"
+      font-size="15"
+    >
+      SMILES · fingerprints · DFT descriptors
+    </text>
+
+    <rect
+      x="250"
+      y="174"
+      width="330"
+      height="8"
+      rx="4"
+      fill="#444b67"
+    />
+
+    <rect
+      x="250"
+      y="174"
+      width="0"
+      height="8"
+      rx="4"
+      fill="#eda6c2"
+    >
+      <animate
+        attributeName="width"
+        from="0"
+        to="298"
+        dur="1.1s"
+        begin="1.8s"
+        fill="freeze"
+      />
+    </rect>
+
   </g>
 
+
+  <!-- ======================================================
+       STEP 02 — MODEL
+       ====================================================== -->
+
   <g opacity="0">
-  <text x="47" y="206" fill="#eda6c2" font-family="monospace" font-size="17">02</text>
-  <text x="95" y="206" fill="#dbe3e6" font-family="monospace" font-size="17">learning</text>
-  <text x="250" y="206" fill="#9ebcc3" font-family="monospace" font-size="17">machine learning / deep learning</text>
-  <rect x="250" y="219" width="330" height="10" rx="5" fill="#444b67" stroke="#8fa5b6" stroke-opacity=".3"/>
-  <rect x="250" y="219" width="330" height="10" rx="5" fill="#f3a09d">
-    <animate attributeName="width" from="0" to="330" dur="1.8s" begin="2.8s" fill="freeze"/>
+
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur=".25s"
+      begin="2.9s"
+      fill="freeze"
+    />
+
+    <text
+      x="47"
+      y="215"
+      fill="#eda6c2"
+      font-family="monospace"
+      font-size="15"
+      font-weight="bold"
+    >
+      02
+    </text>
+
+    <text
+      x="95"
+      y="215"
+      fill="#dbe3e6"
+      font-family="monospace"
+      font-size="16"
+      font-weight="bold"
+    >
+      MODEL
+    </text>
+
+    <text
+      x="250"
+      y="215"
+      fill="#9ebcc3"
+      font-family="monospace"
+      font-size="15"
+    >
+      machine learning · deep learning
+    </text>
+
+    <rect
+      x="250"
+      y="229"
+      width="330"
+      height="8"
+      rx="4"
+      fill="#444b67"
+    />
+
+    <rect
+      x="250"
+      y="229"
+      width="0"
+      height="8"
+      rx="4"
+      fill="#f3a09d"
+    >
+      <animate
+        attributeName="width"
+        from="0"
+        to="330"
+        dur="1.2s"
+        begin="2.9s"
+        fill="freeze"
+      />
+    </rect>
+
+  </g>
+
+
+  <!-- ======================================================
+       STEP 03 — VALIDATE
+       ====================================================== -->
+
+  <g opacity="0">
+
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur=".25s"
+      begin="4.1s"
+      fill="freeze"
+    />
+
+    <text
+      x="47"
+      y="270"
+      fill="#eda6c2"
+      font-family="monospace"
+      font-size="15"
+      font-weight="bold"
+    >
+      03
+    </text>
+
+    <text
+      x="95"
+      y="270"
+      fill="#dbe3e6"
+      font-family="monospace"
+      font-size="16"
+      font-weight="bold"
+    >
+      VALIDATE
+    </text>
+
+    <text
+      x="250"
+      y="270"
+      fill="#9ebcc3"
+      font-family="monospace"
+      font-size="15"
+    >
+      QSRR · QSAR · retention · affinity
+    </text>
+
+    <rect
+      x="250"
+      y="284"
+      width="330"
+      height="8"
+      rx="4"
+      fill="#444b67"
+    />
+
+    <rect
+      x="250"
+      y="284"
+      width="0"
+      height="8"
+      rx="4"
+      fill="#9ebcc3"
+    >
+      <animate
+        attributeName="width"
+        from="0"
+        to="286"
+        dur="1.1s"
+        begin="4.1s"
+        fill="freeze"
+      />
+    </rect>
+
+  </g>
+
+
+  <!-- ======================================================
+       STEP 04 — INTERPRET
+       ====================================================== -->
+
+  <g opacity="0">
+
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur=".25s"
+      begin="5.2s"
+      fill="freeze"
+    />
+
+    <text
+      x="47"
+      y="325"
+      fill="#eda6c2"
+      font-family="monospace"
+      font-size="15"
+      font-weight="bold"
+    >
+      04
+    </text>
+
+    <text
+      x="95"
+      y="325"
+      fill="#dbe3e6"
+      font-family="monospace"
+      font-size="16"
+      font-weight="bold"
+    >
+      INTERPRET
+    </text>
+
+    <text
+      x="250"
+      y="325"
+      fill="#9ebcc3"
+      font-family="monospace"
+      font-size="15"
+    >
+      docking · MD · ΔG · interactions
+    </text>
+
+    <rect
+      x="250"
+      y="339"
+      width="330"
+      height="8"
+      rx="4"
+      fill="#444b67"
+    />
+
+    <rect
+      x="250"
+      y="339"
+      width="0"
+      height="8"
+      rx="4"
+      fill="#f3a09d"
+    >
+      <animate
+        attributeName="width"
+        from="0"
+        to="315"
+        dur="1.1s"
+        begin="5.2s"
+        fill="freeze"
+      />
+    </rect>
+
+  </g>
+
+
+  <!-- ======================================================
+       MOLECULAR INTERACTION PANEL
+       ====================================================== -->
+
+  <rect
+    x="620"
+    y="99"
+    width="327"
+    height="257"
+    rx="14"
+    fill="#444b67"
+    opacity=".9"
+    stroke="#8fa5b6"
+    stroke-width="1"
+    stroke-opacity=".25"
+  />
+
+  <text
+    x="646"
+    y="132"
+    fill="#dbe3e6"
+    font-family="monospace"
+    font-size="15"
+    font-weight="bold"
+    letter-spacing=".6"
+  >
+    MOLECULAR INTERACTION
+  </text>
+
+  <line
+    x1="646"
+    y1="145"
+    x2="919"
+    y2="145"
+    stroke="#8fa5b6"
+    opacity=".25"
+  />
+
+
+  <!-- ======================================================
+       INTERACTION NETWORK
+       ====================================================== -->
+
+  <circle
+    cx="783"
+    cy="225"
+    r="46"
+    fill="#9ebcc3"
+    opacity=".10"
+  >
+    <animate
+      attributeName="r"
+      values="44;49;44"
+      dur="3.5s"
+      repeatCount="indefinite"
+    />
+  </circle>
+
+  <circle
+    cx="783"
+    cy="225"
+    r="25"
+    fill="#f3a09d"
+    filter="url(#soft-glow)"
+  />
+
+  <circle
+    cx="783"
+    cy="225"
+    r="11"
+    fill="#dbe3e6"
+    opacity=".65"
+  />
+
+
+  <!-- Peripheral nodes -->
+
+  <circle cx="713" cy="181" r="11" fill="#eda6c2"/>
+  <circle cx="853" cy="181" r="11" fill="#eda6c2"/>
+
+  <circle cx="713" cy="269" r="11" fill="#9ebcc3"/>
+  <circle cx="853" cy="269" r="11" fill="#9ebcc3"/>
+
+
+  <!-- Network connections -->
+
+  <g
+    stroke="#dbe3e6"
+    stroke-width="3"
+    stroke-linecap="round"
+    opacity=".75"
+  >
+
+    <line
+      x1="723"
+      y1="188"
+      x2="760"
+      y2="212"
+    />
+
+    <line
+      x1="843"
+      y1="188"
+      x2="806"
+      y2="212"
+    />
+
+    <line
+      x1="723"
+      y1="262"
+      x2="760"
+      y2="238"
+    />
+
+    <line
+      x1="843"
+      y1="262"
+      x2="806"
+      y2="238"
+    />
+
+  </g>
+
+
+  <!-- Animated interaction signals -->
+
+  <g fill="#f3a09d">
+
+    <circle r="3">
+      <animateMotion
+        path="M 723 188 L 760 212"
+        dur="1.8s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <circle r="3">
+      <animateMotion
+        path="M 843 188 L 806 212"
+        dur="2s"
+        begin=".5s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <circle r="3">
+      <animateMotion
+        path="M 723 262 L 760 238"
+        dur="2.1s"
+        begin=".3s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <circle r="3">
+      <animateMotion
+        path="M 843 262 L 806 238"
+        dur="1.9s"
+        begin=".8s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+  </g>
+
+
+  <!-- Molecular panel labels -->
+
+  <text
+    x="783"
+    y="308"
+    text-anchor="middle"
+    fill="#9ebcc3"
+    font-family="monospace"
+    font-size="13"
+  >
+    structure · energetics · dynamics
+  </text>
+
+  <text
+    x="783"
+    y="330"
+    text-anchor="middle"
+    fill="#dbe3e6"
+    font-family="monospace"
+    font-size="14"
+  >
+    interaction landscape resolved
+  </text>
+
+
+  <!-- ======================================================
+       OUTPUT
+       ====================================================== -->
+
+  <line
+    x1="44"
+    y1="374"
+    x2="947"
+    y2="374"
+    stroke="#8fa5b6"
+    stroke-width="1.5"
+    opacity=".4"
+  />
+
+  <text
+    x="45"
+    y="417"
+    fill="#eda6c2"
+    font-family="monospace"
+    font-size="16"
+    font-weight="bold"
+  >
+    OUTPUT
+  </text>
+
+  <text
+    x="145"
+    y="417"
+    fill="#dbe3e6"
+    font-family="monospace"
+    font-size="18"
+  >
+    predictive + interpretable molecular insight
+  </text>
+
+  <text
+    x="45"
+    y="443"
+    fill="#9ebcc3"
+    font-family="monospace"
+    font-size="13"
+  >
+    AI × cheminformatics × computational molecular science
+  </text>
+
+
+  <!-- ======================================================
+       BLINKING CURSOR
+       ====================================================== -->
+
+  <rect
+    x="918"
+    y="399"
+    width="10"
+    height="22"
+    rx="2"
+    fill="#eda6c2"
+  >
+
+    <animate
+      attributeName="opacity"
+      values="1;0;1"
+      dur="1.2s"
+      repeatCount="indefinite"
+    />
+
   </rect>
-    <animate attributeName="opacity" from="0" to="1" dur=".2s" begin="2.8s" fill="freeze"/>
-  </g>
 
-  <g opacity="0">
-  <text x="47" y="259" fill="#eda6c2" font-family="monospace" font-size="17">03</text>
-  <text x="95" y="259" fill="#dbe3e6" font-family="monospace" font-size="17">validating</text>
-  <text x="250" y="259" fill="#9ebcc3" font-family="monospace" font-size="17">retention time + affinity</text>
-  <rect x="250" y="272" width="330" height="10" rx="5" fill="#444b67" stroke="#8fa5b6" stroke-opacity=".3"/>
-  <rect x="250" y="272" width="286" height="10" rx="5" fill="#9ebcc3"/>
-    <animate attributeName="opacity" from="0" to="1" dur=".2s" begin="4.9s" fill="freeze"/>
-  </g>
-
-  <g opacity="0">
-  <text x="47" y="312" fill="#eda6c2" font-family="monospace" font-size="17">04</text>
-  <text x="95" y="312" fill="#dbe3e6" font-family="monospace" font-size="17">explaining</text>
-  <text x="250" y="312" fill="#9ebcc3" font-family="monospace" font-size="17">MD + ΔG + interactions</text>
-  <rect x="250" y="325" width="330" height="10" rx="5" fill="#444b67" stroke="#8fa5b6" stroke-opacity=".3"/>
-  <rect x="250" y="325" width="320" height="10" rx="5" fill="#f3a09d"/>
-    <animate attributeName="opacity" from="0" to="1" dur=".2s" begin="5.6s" fill="freeze"/>
-  </g>
-
-  <rect x="625" y="99" width="322" height="258" rx="13" fill="#444b67" opacity=".88"/>
-  <text x="651" y="133" fill="#dbe3e6" font-family="monospace" font-size="16">MOLECULAR SIGNAL</text>
-  <circle cx="781" cy="222" r="43" fill="#9ebcc3" opacity=".28"/>
-  <circle cx="781" cy="222" r="24" fill="#f3a09d"/>
-  <circle cx="714" cy="177" r="13" fill="#eda6c2"/>
-  <circle cx="850" cy="177" r="13" fill="#eda6c2"/>
-  <circle cx="714" cy="268" r="13" fill="#eda6c2"/>
-  <circle cx="850" cy="268" r="13" fill="#eda6c2"/>
-  <line x1="727" y1="185" x2="760" y2="209" stroke="#dbe3e6" stroke-width="7"/>
-  <line x1="838" y1="185" x2="802" y2="209" stroke="#dbe3e6" stroke-width="7"/>
-  <line x1="727" y1="260" x2="760" y2="235" stroke="#dbe3e6" stroke-width="7"/>
-  <line x1="838" y1="260" x2="802" y2="235" stroke="#dbe3e6" stroke-width="7"/>
-  <text x="651" y="329" fill="#9ebcc3" font-family="monospace" font-size="15">binding interface detected</text>
-
-  <line x1="44" y1="371" x2="947" y2="371" stroke="#8fa5b6" stroke-width="2" opacity=".55"/>
-  <text x="45" y="416" fill="#9ebcc3" font-family="monospace" font-size="19">✓ output</text>
-  <text x="190" y="416" fill="#dbe3e6" font-family="monospace" font-size="19">interpretable molecular insight</text>
-  <rect x="916" y="399" width="11" height="23" rx="2" fill="#eda6c2">
-    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
-  </rect>
 </svg>
