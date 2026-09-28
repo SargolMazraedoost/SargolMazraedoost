@@ -111,10 +111,7 @@ An integrative computational pipeline for identifying mutations that enhance the
 My current computational work extends across several areas of molecular AI and modeling:
 
 **Molecular Representation Learning**
-Exploring molecular fingerprints, graph neural networks, molecular language models, and 3D structure-aware representations for chemical property and toxicity prediction.
-
-**Computational Toxicology**
-Developing machine-learning and deep-learning workflows for toxicity prediction, including structure-based and data-driven approaches.
+Exploring molecular fingerprints, graph neural networks, molecular language models, and 3D structure-aware representations for chemical property prediction.
 
 **Molecular Docking & Dynamics**
 Using docking, molecular dynamics simulations, and energetic analyses to investigate ligand–protein and protein–protein interactions.
