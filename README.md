@@ -222,9 +222,9 @@ Research presented at:
 
 ### Languages
 
-🇮🇷 **Persian** — Native
-🇬🇧 **English** — Professional
-🇰🇷 **Korean** — Elementary
+**Persian** — Native
+**English** — Professional
+**Korean** — Elementary
 
 </details>
 
