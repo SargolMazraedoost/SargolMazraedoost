@@ -2,7 +2,7 @@
 
 <img src="github-profile-banner.png" alt="Snowy pixel-art bus stop overlooking a mountain city" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=2800&pause=900&color=606383&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I%27m+Sargol+Mazraedoost%2C+Ph.D.;I+turn+molecules+into+computable+insight.;AI+%C3%97+cheminformatics+%C3%97+physical+chemistry" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=2800&pause=900&color=606383&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I%27m+Sargol+Mazraedoost%2C+Ph.D.;I+turn+molecules+into+computable+insight.;AI+%C3%97+cheminformatics+%C3%97+Computational+Chemistry" alt="Animated introduction" />
 
 <p><i>Full-time Research Professor (전임연구교수) · Pukyong National University · Busan, South Korea</i></p>
 
