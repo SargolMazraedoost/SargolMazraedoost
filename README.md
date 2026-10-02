@@ -198,11 +198,11 @@ Islamic Azad University of Lahijan · Iran
 
 ### Awards
 
-🏆 **Outstanding International Student Award**
+**Outstanding International Student Award**
 자랑스러운 국립 부경대학교 외국인 유학생
 Pukyong National University · August 20, 2025
 
-🏆 **Three Presentation Awards — KIChE**
+**Three Presentation Awards — KIChE**
 Korean Institute of Chemical Engineers · **2022–2024**
 
 Recognized for research involving machine-learning and deep-learning approaches to chromatographic modeling.
