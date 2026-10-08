@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="github-profile-banner.gif" alt="Animated snowy pixel-art bus stop overlooking a mountain city" width="100%" />
@@ -17,7 +16,7 @@
 
 ## About Me
 
-I am a **Full-Time Research Professor (전임연구교수)** in South Korea with a **Ph.D. in Chemical Convergence Engineering** from Pukyong National University.
+I am a **Full-Time Research Professor (전임연구교수)** in South Korea with a **Ph.D. in Chemical Convergence Engineering** from Pukyong National University (PKNU).
 
 My research focuses on **AI-driven cheminformatics and bioinformatics**, integrating **density functional theory (DFT), machine learning, and deep learning** for QSRR and QSAR modeling, together with **molecular docking and molecular dynamics simulations** for investigating protein–protein and protein–ligand interactions.
 
