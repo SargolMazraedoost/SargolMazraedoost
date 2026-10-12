@@ -63,7 +63,6 @@ A selection of my published research integrating artificial intelligence, comput
 
 ### 01 · [RT-TR](https://github.com/SargolMazraedoost/RT-TR)
 
-**PREDICT**
 
 `SMILES` → `Retention Time`
 
@@ -86,7 +85,6 @@ A hybrid Transformer–BiLSTM framework for predicting chromatographic retention
 
 ### 02 · [Cross-Column QSRR](https://github.com/SargolMazraedoost/Cross-Column-QSRR-Machine-Learning)
 
-**TRANSFER**
 
 `DFT Descriptors` → `Retention Prediction`
 
@@ -108,7 +106,6 @@ A machine-learning framework combining quantum-chemical molecular descriptors an
 
 ### 03 · [MBD2–p66α](https://doi.org/10.1002/bkcs.12923)
 
-**ENGINEER**
 
 `Protein Mutations` → `Binding Affinity`
 
@@ -136,7 +133,6 @@ An integrative computational strategy for identifying mutations predicted to enh
 
 #### [Integrative Data-Driven and First-Principle Approaches for Chromatographic Retention Time Prediction and Binding Affinity Enhancement](https://repository.pknu.ac.kr:8443/handle/2021.oak/34340)
 
-**INTEGRATE · PREDICT · ENGINEER**
 
 `Data-Driven Modeling` + `First-Principles Methods` → `Molecular Prediction & Design`
 
