@@ -106,6 +106,32 @@ An integrative computational pipeline for identifying mutations that enhance the
 </tr>
 </table>
 
+
+</tr>
+<tr>
+<td colspan="3" valign="top">
+
+### 04 · [Ph.D. Dissertation](https://repository.pknu.ac.kr:8443/handle/2021.oak/34340)
+
+**INTEGRATE**
+
+`Machine Learning` + `DFT` + `Molecular Dynamics` → `Molecular Prediction & Design`
+
+An integrative data-driven and first-principles computational framework for chromatographic retention-time prediction and protein binding-affinity enhancement.
+
+**Focus:** combining machine learning, deep learning, quantum-chemical calculations, molecular simulations, and free-energy methods for molecular property prediction and protein engineering.
+
+**Institution:** Pukyong National University · 2025
+
+`Ph.D. Thesis` `Computational Chemistry` `Cheminformatics` `Deep Learning` `DFT` `Molecular Dynamics`
+
+[DOI](https://doi.org/10.23171/pknu.200000899818.21031.0077498)
+
+</td>
+</tr>
+</table>
+
+
 ## Current Research Directions
 
 My current computational work extends across several areas of molecular AI and modeling:
@@ -147,13 +173,6 @@ For the most up-to-date list of publications, please visit my [Google Scholar pr
 *Analytical and Bioanalytical Chemistry*
 [DOI](https://doi.org/10.1007/s00216-024-05243-7)
 
-
-## Ph.D. Dissertation
-
-**Integrative Data-Driven and First-Principle Approaches for Chromatographic Retention Time Prediction and Binding Affinity Enhancement**  
-*Ph.D. in Chemical Engineering | Pukyong National University, South Korea | 2025*  
-
-[DOI](https://doi.org/10.23171/pknu.200000899818.21031.0077498) · [University Repository](https://repository.pknu.ac.kr:8443/handle/2021.oak/34340)
 
 <br>
 
