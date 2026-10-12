@@ -121,7 +121,7 @@ An integrative computational strategy for identifying mutations predicted to enh
 
 `Molecular Dynamics` `Alchemical Free Energy` `MM/PBSA` `Protein Engineering`
 
-[Publication](https://doi.org/10.1002/bkcs.12923)
+[Publication](https://doi.org/10.1002/bkcs.12923) · [Research Repository](https://github.com/SargolMazraedoost/MBD2-p66alpha-Binding-Affinity)
 
 </td>
 </tr>
