@@ -182,6 +182,7 @@ AI-Driven Cheminformatics and Bioinformatics
 Pukyong National University · Busan, South Korea
 **Sep 2025–Aug 2026**
 
+
 ### Education
 
 **Ph.D. in Chemical Convergence Engineering**
