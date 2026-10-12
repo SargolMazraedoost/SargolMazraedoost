@@ -147,6 +147,14 @@ For the most up-to-date list of publications, please visit my [Google Scholar pr
 *Analytical and Bioanalytical Chemistry*
 [DOI](https://doi.org/10.1007/s00216-024-05243-7)
 
+
+## Ph.D. Dissertation
+
+**Integrative Data-Driven and First-Principle Approaches for Chromatographic Retention Time Prediction and Binding Affinity Enhancement**  
+*Ph.D. in Chemical Engineering | Pukyong National University, South Korea | 2025*  
+
+[DOI](https://doi.org/10.23171/pknu.200000899818.21031.0077498) · [University Repository](https://repository.pknu.ac.kr:8443/handle/2021.oak/34340)
+
 <br>
 
 <div align="center">
