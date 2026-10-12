@@ -52,7 +52,10 @@ My broader goal is to combine **molecular information, physical chemistry, and a
 *  **Protein–Protein Interactions**
 *  **Protein–Ligand Interactions**
 
-## Selected Work
+
+## Selected Research
+
+A selection of my published research integrating artificial intelligence, computational chemistry, and molecular modeling to address challenges in chromatographic prediction and protein engineering.
 
 <table>
 <tr>
@@ -62,74 +65,99 @@ My broader goal is to combine **molecular information, physical chemistry, and a
 
 **PREDICT**
 
-`SMILES` → `retention time`
+`SMILES` → `Retention Time`
 
-A hybrid Transformer–BiLSTM framework for direct chromatographic retention-time prediction from molecular structure.
+A hybrid Transformer–BiLSTM framework for predicting chromatographic retention times directly from molecular SMILES representations.
 
-**Result:** MAE 26.97 s · MAPE 3.35% · R² 0.90
+**Performance**
 
-`Python` `PyTorch` `SMILES` `Deep Learning`
+- MAE: **26.97 s**
+- MAPE: **3.35%**
+- R²: **0.90**
+
+**Methods**
+
+`Transformers` `BiLSTM` `Deep Learning` `Cheminformatics`
+
+[Publication](https://doi.org/10.1021/acs.jcim.5c00167) · [Source Code](https://github.com/SargolMazraedoost/RT-TR)
 
 </td>
-
 <td width="33%" valign="top">
 
-### 02 · [Cross-Column QSRR](https://doi.org/10.1007/s00216-024-05243-7)
+### 02 · [Cross-Column QSRR](https://github.com/SargolMazraedoost/Cross-Column-QSRR-Machine-Learning)
 
 **TRANSFER**
 
-`DFT descriptors` → `cross-column prediction`
+`DFT Descriptors` → `Retention Prediction`
 
-A DFT-powered machine-learning framework for transferable chromatographic retention modeling across different column systems.
+A machine-learning framework combining quantum-chemical molecular descriptors and chromatographic parameters to predict retention behavior across RP-HPLC columns.
 
-**Focus:** integrating quantum-chemical descriptors with machine learning for cross-system QSRR prediction.
+**Performance**
 
-`DFT` `QSRR` `Machine Learning`
+- Predictive Q²: **0.989**
+- RMSEP: **0.749 min**
+
+**Methods**
+
+`DFT` `QSRR` `Gradient Boosting` `RP-HPLC`
+
+[Publication](https://doi.org/10.1007/s00216-024-05243-7) · [Research Repository](https://github.com/SargolMazraedoost/Cross-Column-QSRR-Machine-Learning)
 
 </td>
-
 <td width="33%" valign="top">
 
 ### 03 · [MBD2–p66α](https://doi.org/10.1002/bkcs.12923)
 
-**DESIGN**
+**ENGINEER**
 
-`Mutations` → `binding enhancement`
+`Protein Mutations` → `Binding Affinity`
 
-An integrative computational pipeline for identifying mutations that enhance the MBD2–p66α protein–protein interaction.
+An integrative computational strategy for identifying mutations predicted to enhance the MBD2–p66α protein–protein interaction.
 
-**Focus:** structure-based analysis, molecular simulation, and binding-energy evaluation.
+**Key Findings**
 
-`Molecular Dynamics` `Free Energy` `Protein Design`
+- **565** mutations screened
+- **10** candidates evaluated
+- **K149I, K149L, K163L** identified as promising mutations
 
-</td>
-</tr>
-</table>
+**Methods**
 
+`Molecular Dynamics` `Alchemical Free Energy` `MM/PBSA` `Protein Engineering`
 
-</tr>
-<tr>
-<td colspan="3" valign="top">
-
-### [Ph.D. Dissertation](https://repository.pknu.ac.kr:8443/handle/2021.oak/34340)
-
-**INTEGRATE**
-
-`Machine Learning` + `DFT` + `Molecular Dynamics` → `Molecular Prediction & Design`
-
-An integrative data-driven and first-principles computational framework for chromatographic retention-time prediction and protein binding-affinity enhancement.
-
-**Focus:** combining machine learning, deep learning, quantum-chemical calculations, molecular simulations, and free-energy methods for molecular property prediction and protein engineering.
-
-**Institution:** Pukyong National University · 2025
-
-`Ph.D. Thesis` `Computational Chemistry` `Cheminformatics` `Deep Learning` `DFT` `Molecular Dynamics`
-
-[DOI](https://doi.org/10.23171/pknu.200000899818.21031.0077498)
+[Publication](https://doi.org/10.1002/bkcs.12923)
 
 </td>
 </tr>
 </table>
+
+---
+
+### Doctoral Dissertation
+
+#### [Integrative Data-Driven and First-Principle Approaches for Chromatographic Retention Time Prediction and Binding Affinity Enhancement](https://repository.pknu.ac.kr:8443/handle/2021.oak/34340)
+
+**INTEGRATE · PREDICT · ENGINEER**
+
+`Data-Driven Modeling` + `First-Principles Methods` → `Molecular Prediction & Design`
+
+**Ph.D. in Chemical Engineering**  
+Pukyong National University, Busan, South Korea · 2025
+
+My doctoral research integrates machine learning, deep learning, density functional theory, molecular dynamics, and free-energy calculations to develop predictive and mechanistic approaches for chromatographic retention modeling and protein binding-affinity enhancement.
+
+**Research Areas**
+
+- **Chromatographic Prediction:** Cross-column QSRR modeling integrating DFT-derived molecular descriptors and machine learning.
+- **Molecular Deep Learning:** SMILES-based retention-time prediction using hybrid Transformer–BiLSTM architectures.
+- **Computational Protein Engineering:** Mutation screening and binding-affinity analysis through molecular simulations and free-energy calculations.
+
+**Core Methods**
+
+`Machine Learning` `Deep Learning` `DFT` `QSRR` `SMILES` `Molecular Dynamics` `Alchemical Free Energy` `Computational Biophysics`
+
+[Dissertation DOI](https://doi.org/10.23171/pknu.200000899818.21031.0077498) · [PKNU Institutional Repository](https://repository.pknu.ac.kr:8443/handle/2021.oak/34340)
+
+---
 
 
 ## Current Research Directions
