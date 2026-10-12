@@ -111,7 +111,7 @@ An integrative computational pipeline for identifying mutations that enhance the
 <tr>
 <td colspan="3" valign="top">
 
-### · [Ph.D. Dissertation](https://repository.pknu.ac.kr:8443/handle/2021.oak/34340)
+### [Ph.D. Dissertation](https://repository.pknu.ac.kr:8443/handle/2021.oak/34340)
 
 **INTEGRATE**
 
