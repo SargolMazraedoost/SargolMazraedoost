@@ -329,5 +329,67 @@ Research presented at:
 </a>
 </p>
 
-📧 [sargol@pknu.ac.kr]()
-📧 [sargol.mazraedoost7@gmail.com]()
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:Sargol.mazraedoost7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://orcid.org/0000-0001-6656-1968">
+  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" />
+</a>
+<a href="https://scholar.google.com/citations?user=tosxQUIAAAAJ&hl=en">
+  <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+</a>
+<a href="https://www.linkedin.com/in/sargol-mazraedoost-95248b150">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.researchgate.net/profile/Sargol-Mazraedoost">
+  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate" />
+</a>
+<a href="https://github.com/SargolMazraedoost">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br>
+
+<a href="https://sargolmazraedoost7.wixsite.com/website">
+  <img src="https://img.shields.io/badge/Wix_Website-000000?style=flat-square&logo=wix&logoColor=white" alt="Wix Website" />
+</a>
+<a href="https://sargol-mazraedoost.jimdosite.com/">
+  <img src="https://img.shields.io/badge/Jimdo_Website-4169E1?style=flat-square&logo=googlechrome&logoColor=white" alt="Jimdo Website" />
+</a>
+<a href="https://loop.frontiersin.org/people/757028/overview?referrer=orcid_profile">
+  <img src="https://img.shields.io/badge/Loop-757028-0077B5?style=flat-square" alt="Loop Profile" />
+</a>
+<a href="https://www.scopus.com/authid/detail.uri?authorId=57203482383">
+  <img src="https://img.shields.io/badge/Scopus-57203482383-FF8200?style=flat-square" alt="Scopus Author ID" />
+</a>
+<a href="https://sciprofiles.com/profile/1663563">
+  <img src="https://img.shields.io/badge/SciProfiles-1663563-008B8B?style=flat-square" alt="SciProfiles" />
+</a>
+
+<br><br>
+
+**Academic & Research Profiles**
+
+[ORCID](https://orcid.org/0000-0001-6656-1968) ·
+[Google Scholar](https://scholar.google.com/citations?user=tosxQUIAAAAJ&hl=en) ·
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57203482383) ·
+[ResearchGate](https://www.researchgate.net/profile/Sargol-Mazraedoost) ·
+[Loop](https://loop.frontiersin.org/people/757028/overview?referrer=orcid_profile) ·
+[SciProfiles](https://sciprofiles.com/profile/1663563)
+
+**Professional & Personal Links**
+
+[LinkedIn](https://www.linkedin.com/in/sargol-mazraedoost-95248b150) ·
+[GitHub](https://github.com/SargolMazraedoost) ·
+[Wix Website](https://sargolmazraedoost7.wixsite.com/website) ·
+[Jimdo Website](https://sargol-mazraedoost.jimdosite.com/)
+
+📧 **Email:** [Sargol.mazraedoost7@gmail.com](mailto:Sargol.mazraedoost7@gmail.com)
+
+</div>
+
