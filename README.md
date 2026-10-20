@@ -83,6 +83,7 @@ A hybrid Transformer–BiLSTM framework for predicting chromatographic retention
 </td>
 <td width="33%" valign="top">
 
+
 ### 02 · [Cross-Column QSRR](https://github.com/SargolMazraedoost/Cross-Column-QSRR-Machine-Learning)
 
 
@@ -103,6 +104,7 @@ A machine-learning framework combining quantum-chemical molecular descriptors an
 
 </td>
 <td width="33%" valign="top">
+
 
 ### 03 · [MBD2–p66α](https://doi.org/10.1002/bkcs.12923)
 
