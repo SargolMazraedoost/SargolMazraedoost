@@ -8,6 +8,7 @@
 <i>Full-Time Research Professor (전임연구교수) · Pukyong National University · Busan, South Korea</i>
 </p>
 
+
 <p>
 <b>AI-driven cheminformatics and bioinformatics for molecular prediction, modeling, and discovery.</b>
 </p>
