@@ -11,7 +11,7 @@
 
 ## About Me
 
-I am a **Full-Time Research Professor (전임연구교수)** based in South Korea, holding a **Ph.D. in Chemical Convergence Engineering**.
+I am a **Full-Time Research Professor (전임연구교수)** based in South Korea, holding a **Ph.D. in Chemical Convergence Engineering, Pukyong National University (PKNU, 부경대학교), Busan, South Korea **.
 
 My research focuses on **artificial intelligence (AI)-driven cheminformatics and bioinformatics**, integrating machine learning, deep learning, quantitative structure–property relationships (QSPR), quantitative structure–activity relationships (QSAR), quantitative structure–retention relationships (QSRR), molecular docking, and molecular dynamics simulations.
 
