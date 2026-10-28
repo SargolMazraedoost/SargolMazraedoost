@@ -322,6 +322,84 @@ Research presented at the following scientific societies:
 
 ---
 
+---
+
+### Peer Reviewer
+
+**Peer Reviewer for International Scientific Journals**
+
+Actively contributing to the scientific peer-review process across artificial intelligence, cheminformatics, bioinformatics, computational chemistry, molecular modeling, biotechnology, and interdisciplinary life sciences.
+
+**Peer-Review Record:** [Web of Science Researcher Profile](https://www.webofscience.com/wos/author/record/AAG-1225-2020)
+
+<details>
+<summary><b>View Journals and Editorial Platforms (58 Entries)</b></summary>
+
+<br>
+
+1. ACS Omega
+2. AI
+3. AI in Medicine
+4. Antioxidants
+5. Applied Sciences
+6. Asian Journal of Applied Chemistry Research
+7. B P International
+8. Biodiversitas Journal of Biological Diversity
+9. Bioengineering
+10. Biology
+11. BioMed Research International
+12. BioMedInformatics
+13. Biomimetics
+14. Biomolecules
+15. Biosciences Biotechnology Research Asia
+16. BioTech
+17. Brain Sciences
+18. Cancers
+19. Cells
+20. Clinical Case Reports
+21. Computers
+22. Computers in Biology and Medicine
+23. Data
+24. Diseases
+25. Electroanalysis
+26. Engineering Reports
+27. European Journal of Nutrition & Food Safety
+28. Foods
+29. Frontiers in Bioinformatics — Genomic Analysis
+30. Frontiers in Chemistry — Medicinal and Pharmaceutical Chemistry
+31. Frontiers in Chemistry — Theoretical and Computational Chemistry
+32. Frontiers in Genetics — Computational Genomics
+33. Frontiers in Immunology
+34. Frontiers in Medicine — Precision Medicine
+35. Frontiers in Oncology — Molecular and Cellular Oncology
+36. Genes
+37. Healthcare
+38. International Journal of Molecular Sciences
+39. International Journal of Plant & Soil Science
+40. Journal of Advances in Biology & Biotechnology
+41. Journal of Applied Life Sciences International
+42. Journal of Chemical Information and Modeling
+43. Journal of Current Biomedical Reports
+44. Journal of Drug Delivery Science and Technology
+45. Journal of Global Ecology and Environment
+46. Journal of Liquid Chromatography & Related Technologies
+47. Journal of Research in Weed Science
+48. Journal of Scientific Research and Reports
+49. Life
+50. Medicina
+51. Microchemical Journal
+52. Microorganisms
+53. Nanomaterials
+54. Nova Biotechnologica et Chimica
+55. Pathogens
+56. Pharmaceuticals
+57. Sensors
+58. Technologies
+
+</details>
+
+---
+
 ### Languages
 
 **Persian (Farsi)** — Native Proficiency
