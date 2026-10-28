@@ -480,13 +480,8 @@ Actively contributing to the scientific peer-review process across artificial in
 
 <br>
 
-**Email**
 
-<a href="mailto:sargol.mazraedoost7@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
+📧 **Email:** [Sargol.mazraedoost7@gmail.com](mailto:Sargol.mazraedoost7@gmail.com)
 
 ---
 
