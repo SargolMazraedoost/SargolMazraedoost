@@ -39,16 +39,27 @@ My broader goal is to combine **molecular information, physical chemistry, and a
 ### Research Areas
 
 **Artificial Intelligence for Molecular Sciences**
+
 **Cheminformatics & Molecular Informatics**
+
 **Bioinformatics & Computational Biology**
+
 **Machine Learning & Deep Learning**
+
 **Density Functional Theory (DFT)**
+
 **QSAR / QSPR / QSRR Modeling**
+
 **Chromatographic Retention Time Prediction**
+
 **Molecular Docking**
+
 **Molecular Dynamics Simulations**
+
 **Protein–Protein Interactions**
+
 **Protein–Ligand Interactions**
+
 
 
 ## Selected Research
