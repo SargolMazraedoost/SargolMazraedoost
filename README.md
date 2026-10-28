@@ -2,7 +2,14 @@
 
 <img src="github-profile-banner.gif" alt="Animated snowy pixel-art bus stop overlooking a mountain city" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=2800&pause=900&color=606383&center=true&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I%27m+Sargol+Mazraedoost%2C+Ph.D.;I+turn+molecules+into+computable+insight.;AI+%C3%97+Cheminformatics+%C3%97+Bioinformatics" alt="Animated introduction" />
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=21&duration=3000&pause=1100&color=7779B8&center=true&vCenter=true&width=1000&height=65&lines=Hi+%F0%9F%91%8B+I%27m+Sargol+Mazraedoost%2C+Ph.D.;Full-Time+Research+Professor+at+PKNU;AI-Driven+Cheminformatics+%26+Bioinformatics;Machine+Learning+%7C+Deep+Learning;QSRR+%7C+QSAR+%7C+Molecular+Property+Prediction;Molecular+Docking+%26+Molecular+Dynamics;Protein-Ligand+%26+Protein-Protein+Interactions;Turning+Molecular+Data+into+Scientific+Insights"
+    alt="Animated introduction of Sargol Mazraedoost"
+  />
+</p>
+
 
 <p>
 <i>Full-Time Research Professor (전임연구교수) · Pukyong National University · Busan, South Korea.</i>
