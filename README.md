@@ -152,11 +152,6 @@ Pukyong National University, Busan, South Korea · 2025
 
 My doctoral research integrates machine learning, deep learning, density functional theory, molecular dynamics, and free-energy calculations to develop predictive and mechanistic approaches for chromatographic retention modeling and protein binding-affinity enhancement.
 
-**Research Areas**
-
-- **Chromatographic Prediction:** Cross-column QSRR modeling integrating DFT-derived molecular descriptors and machine learning.
-- **Molecular Deep Learning:** SMILES-based retention-time prediction using hybrid Transformer–BiLSTM architectures.
-- **Computational Protein Engineering:** Mutation screening and binding-affinity analysis through molecular simulations and free-energy calculations.
 
 **Core Methods**
 
