@@ -5,7 +5,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=21&duration=3000&pause=1100&color=7779B8&center=true&vCenter=true&width=1000&height=65&lines=Hi+%F0%9F%91%8B+I%27m+Sargol+Mazraedoost%2C+Ph.D.;Full-Time+Research+Professor+at+PKNU;AI-Driven+Cheminformatics+%26+Bioinformatics;Machine+Learning+%7C+Deep+Learning;QSRR+%7C+QSAR+%7C+Molecular+Property+Prediction;Molecular+Docking+%26+Molecular+Dynamics;Protein-Ligand+%26+Protein-Protein+Interactions;Turning+Molecular+Data+into+Scientific+Insights"
+    src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=21&duration=3000&pause=1100&color=7779B8&center=true&vCenter=true&width=1000&height=65&lines=Hi+%F0%9F%91%8B+I%27m+Sargol+Mazraedoost%2C+Ph.D.;Full-Time+Research+Professor;AI-Driven+Cheminformatics+%26+Bioinformatics;Machine+Learning+%7C+Deep+Learning;QSRR+%7C+QSAR+%7C+Molecular+Property+Prediction;Molecular+Docking+%26+Molecular+Dynamics;Protein-Ligand+%26+Protein-Protein+Interactions;Turning+Molecular+Data+into+Scientific+Insights"
     alt="Animated introduction of Sargol Mazraedoost"
   />
 </p>
