@@ -205,7 +205,6 @@ Investigating molecular solvation, solvent effects, intermolecular interactions,
 
 For my complete and most up-to-date publication list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=tosxQUIAAAAJ&hl=en).
 
-### 2025
 
 **1. Prediction of Chromatographic Retention Time of a Small Molecule from SMILES Representation Using a Hybrid Transformer-LSTM Model**
 
@@ -218,8 +217,6 @@ For my complete and most up-to-date publication list, please visit my [Google Sc
 *Bulletin of the Korean Chemical Society*, 46(1), 57–68.
 
 [DOI](https://doi.org/10.1002/bkcs.12923)
-
-### 2024
 
 **3. Cross-Column Density Functional Theory-Based Quantitative Structure–Retention Relationship Model Development Powered by Machine Learning**
 
