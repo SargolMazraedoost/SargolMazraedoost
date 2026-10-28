@@ -315,11 +315,6 @@ Research presented at the following scientific societies:
 - **KMB** — Korean Society for Microbiology and Biotechnology
 - **KPPS** — Korean Peptide and Protein Society
 
-**Presentation Period:** 2022–2025
-
-**Total:** 10 Conference Presentations  
-**Oral:** 2 | **Poster:** 8
-
 ---
 
 ---
