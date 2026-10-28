@@ -12,18 +12,6 @@
 </p>
 
 
-<p>
-<i>Full-Time Research Professor (전임연구교수).</i>
-</p>
-
-
-<p>
-<b>AI-driven cheminformatics and bioinformatics for molecular prediction, modeling, and discovery.</b>
-</p>
-
-</div>
-
-
 ## About Me
 
 I am a **Full-Time Research Professor (전임연구교수)** in South Korea with a **Ph.D. in Chemical Convergence Engineering** from Pukyong National University (PKNU).
