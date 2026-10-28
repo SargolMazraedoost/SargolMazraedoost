@@ -13,7 +13,7 @@
 
 
 <p>
-<i>Full-Time Research Professor (전임연구교수) · Pukyong National University · Busan, South Korea.</i>
+<i>Full-Time Research Professor (전임연구교수).</i>
 </p>
 
 
