@@ -440,8 +440,6 @@ Actively contributing to the scientific peer-review process across artificial in
 
 <div align="center">
 
-**Open to academic collaborations, interdisciplinary research, and scientific discussions.**
-
 <br>
 
 <a href="https://scholar.google.com/citations?user=tosxQUIAAAAJ&hl=en">
