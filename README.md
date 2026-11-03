@@ -39,6 +39,7 @@ My broader research objective is to bridge **artificial intelligence, computatio
 
 </div>
 
+
 ### Research Areas
 
 **AI-Driven Cheminformatics & Bioinformatics**
