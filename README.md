@@ -3,7 +3,7 @@
 
 <img src="github-profile-banner.gif" alt="Animated pixel-art research profile banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=21&duration=3000&pause=1100&color=7779B8&center=true&vCenter=true&width=1000&height=65&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB+I%27m+Sargol+Mazraedoost%2C+Ph.D.;Full-Time+Research+Professor;AI-Driven+Cheminformatics+%26+Bioinformatics;Machine+Learning+%7C+Deep+Learning;QSRR+%7C+QSAR+%7C+Molecular+Property+Prediction;Molecular+Docking+%26+Molecular+Dynamics;Protein-Ligand+%26+Protein-Protein+Interactions;Turning+Molecular+Data+into+Scientific+Insights" alt="Animated academic introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=21&duration=3000&pause=1100&color=7779B8&center=true&vCenter=true&width=1000&height=65&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB+I%27m+Sargol+Mazraedoost%2C+Ph.D.;Full-Time+Research+Professor;AI-Driven+Cheminformatics+%26+Bioinformatics;Machine+Learning+%7C+Deep+Learning;Molecular+Property+Prediction;Molecular+Docking+%26+Molecular+Dynamics;Protein-Ligand+%26+Protein-Protein+Interactions;Turning+Molecular+Data+into+Scientific+Insights" alt="Animated academic introduction" />
 
 </div>
 
@@ -11,11 +11,11 @@
 
 ## About Me
 
-I am a **Full-Time Research Professor (전임연구교수)** based in South Korea, holding a **Ph.D. in Chemical Convergence Engineering, Pukyong National University (PKNU, 부경대학교), Busan, South Korea**.
+I am a **Full-Time Research Professor (전임연구교수)** based in South Korea, holding a **Ph.D. in Chemical Convergence Engineering from Pukyong National University (PKNU, 부경대학교)**, Busan, South Korea.
 
 My research focuses on **artificial intelligence (AI)-driven cheminformatics and bioinformatics**, integrating machine learning, deep learning, quantitative structure–property relationships (QSPR), quantitative structure–activity relationships (QSAR), quantitative structure–retention relationships (QSRR), molecular docking, and molecular dynamics simulations.
 
-My work encompasses **molecular property prediction, chromatographic retention time modeling, and protein–ligand and protein–protein interactions**, with an emphasis on developing predictive, interpretable, and computationally efficient approaches to molecular sciences.
+My work encompasses **molecular property prediction, chromatographic retention time modeling, and protein–ligand and protein–protein interactions**, emphasizing the development of predictive, interpretable, and computationally efficient approaches to molecular sciences.
 
 My broader research objective is to bridge **artificial intelligence, computational chemistry, and molecular modeling** to advance our understanding of complex chemical and biological systems.
 
@@ -38,7 +38,6 @@ My broader research objective is to bridge **artificial intelligence, computatio
 <img src="research-map.svg" alt="Research map connecting AI, cheminformatics, bioinformatics, and molecular modeling" width="96%" />
 
 </div>
-
 
 ### Research Areas
 
@@ -189,7 +188,7 @@ Integrating quantum chemical descriptors, physicochemical information, and machi
 
 ### Chromatographic Retention Modeling
 
-Developing transferable quantitative structure–retention relationship models and deep learning frameworks for chromatographic retention time prediction.
+Developing transferable QSRR models and deep learning frameworks for chromatographic retention time prediction.
 
 ### Molecular Solvation & Free Energy
 
@@ -205,7 +204,6 @@ Investigating molecular solvation, solvent effects, intermolecular interactions,
 <br>
 
 For my complete and most up-to-date publication list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=tosxQUIAAAAJ&hl=en).
-
 
 **1. Prediction of Chromatographic Retention Time of a Small Molecule from SMILES Representation Using a Hybrid Transformer-LSTM Model**
 
@@ -312,8 +310,6 @@ Research presented at the following scientific societies:
 - **KSBB** — Korean Society for Biotechnology and Bioengineering
 - **KMB** — Korean Society for Microbiology and Biotechnology
 - **KPPS** — Korean Peptide and Protein Society
-
----
 
 ---
 
@@ -476,8 +472,9 @@ Actively contributing to the scientific peer-review process across artificial in
 
 <br>
 
-
 📧 **Email:** [Sargol.mazraedoost7@gmail.com](mailto:Sargol.mazraedoost7@gmail.com)
+
+</div>
 
 ---
 
