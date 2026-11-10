@@ -1,5 +1,4 @@
 
-
 <div align="center">
 
 <img src="github-profile-banner.gif" alt="Animated pixel-art research profile banner" width="100%" />
