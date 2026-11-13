@@ -322,7 +322,7 @@ Actively contributing to the scientific peer-review process across artificial in
 **Peer-Review Record:** [Web of Science Researcher Profile](https://www.webofscience.com/wos/author/record/AAG-1225-2020)
 
 <details>
-<summary><b>View Journals and Editorial Platforms (58 Entries)</b></summary>
+<summary><b>View Journals and Editorial Platforms </b></summary>
 
 <br>
 
