@@ -326,64 +326,123 @@ Actively contributing to the scientific peer-review process across artificial in
 
 <br>
 
-1. ACS Omega
-2. AI
-3. AI in Medicine
-4. Antioxidants
-5. Applied Sciences
-6. Asian Journal of Applied Chemistry Research
-7. B P International
-8. Biodiversitas Journal of Biological Diversity
-9. Bioengineering
-10. Biology
-11. BioMed Research International
-12. BioMedInformatics
-13. Biomimetics
-14. Biomolecules
-15. Biosciences Biotechnology Research Asia
-16. BioTech
-17. Brain Sciences
-18. Cancers
-19. Cells
-20. Clinical Case Reports
-21. Computers
-22. Computers in Biology and Medicine
-23. Data
-24. Diseases
-25. Electroanalysis
-26. Engineering Reports
-27. European Journal of Nutrition & Food Safety
-28. Foods
-29. Frontiers in Bioinformatics — Genomic Analysis
-30. Frontiers in Chemistry — Medicinal and Pharmaceutical Chemistry
-31. Frontiers in Chemistry — Theoretical and Computational Chemistry
-32. Frontiers in Genetics — Computational Genomics
-33. Frontiers in Immunology
-34. Frontiers in Medicine — Precision Medicine
-35. Frontiers in Oncology — Molecular and Cellular Oncology
-36. Genes
-37. Healthcare
-38. International Journal of Molecular Sciences
-39. International Journal of Plant & Soil Science
-40. Journal of Advances in Biology & Biotechnology
-41. Journal of Applied Life Sciences International
-42. Journal of Chemical Information and Modeling
-43. Journal of Current Biomedical Reports
-44. Journal of Drug Delivery Science and Technology
-45. Journal of Global Ecology and Environment
-46. Journal of Liquid Chromatography & Related Technologies
-47. Journal of Research in Weed Science
-48. Journal of Scientific Research and Reports
-49. Life
-50. Medicina
-51. Microchemical Journal
-52. Microorganisms
-53. Nanomaterials
-54. Nova Biotechnologica et Chimica
-55. Pathogens
-56. Pharmaceuticals
-57. Sensors
-58. Technologies
+ACS Omega
+
+AI
+
+AI in Medicine
+
+Antioxidants 
+
+Applied Sciences
+
+Asian Journal of Applied Chemistry Research
+
+B P International
+
+Biodiversitas Journal of Biological Diversity
+
+Bioengineering
+
+Biology
+
+BioMed Research International
+
+BioMedInformatics
+
+Biomimetics
+
+Biomolecules
+
+Biosciences Biotechnology Research Asia
+
+BioTech 
+
+Brain Sciences
+
+Cancers
+
+Cells
+
+Clinical Case Reports
+
+Computers
+
+Computers in Biology and Medicine
+
+Data
+
+Diseases 
+
+Electroanalysis
+
+Engineering Reports
+
+European Journal of Nutrition & Food Safety
+
+Foods
+
+Frontiers in Bioinformatics, section Genomic Analysis
+
+Frontiers in Chemistry, section Medicinal and Pharmaceutical Chemistry
+
+Frontiers in Chemistry, section Theoretical and Computational Chemistry
+
+Frontiers in Genetics, section Computational Genomics
+
+Frontiers in Immunology
+
+Frontiers in Medicine, section Precision Medicine
+
+Frontiers in Oncology, section Molecular and Cellular Oncology
+
+Genes
+
+Healthcare
+
+International Journal of Molecular Sciences
+
+International Journal of Plant & Soil Science
+
+International Journal of Translational Medicine 
+
+Journal of Advances in Biology & Biotechnology
+
+Journal of Applied Life Sciences International
+
+Journal of Chemical Information and Modeling
+
+Journal of Current Biomedical Reports
+
+Journal of Drug Delivery Science and Technology
+
+Journal of Global Ecology and Environment
+
+Journal of Liquid Chromatography & Related Technologies
+
+Journal of Research in Weed Science
+
+Journal of Scientific Research and Reports
+
+Life
+
+Medicina
+
+Microchemical Journal
+
+Microorganisms
+
+Nanomaterials
+
+Nova Biotechnologica et Chimica
+
+Pathogens
+
+Pharmaceuticals
+
+Sensors
+
+Technologies
 
 </details>
 
