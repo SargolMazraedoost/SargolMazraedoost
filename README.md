@@ -518,7 +518,7 @@ Technologies
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<a href="https://sites.google.com/view/sargol-mazraedoost">
+<a href="https://sargolmazraedoost.github.io/">
 <img src="https://img.shields.io/badge/Academic%20Website-6E56CF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Academic Website" />
 </a>
 
